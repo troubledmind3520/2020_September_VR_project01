@@ -1839,3 +1839,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.04-09.03.13:098][498]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map60A96DE8431190FC4B44D28F38591E54.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
 [2020.09.04-09.03.13:131][498]AssetCheck: New page: Asset Save: TF2_map
 [2020.09.04-09.03.13:131][498]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-09.11.49:292][642]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/字體/TF字體.TF字體
+[2020.09.04-09.12.07:312][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/TF字體" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset" SILENT=true
+[2020.09.04-09.12.07:323][714]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF字體2BBB109141823A92D06C238E4068F135.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset'
+[2020.09.04-09.12.07:334][714]AssetCheck: New page: Asset Save: TF字體
+[2020.09.04-09.12.07:334][714]LogContentValidation: Display: Validating Font /Game/字體/TF字體.TF字體
+[2020.09.04-09.12.08:732][874]LogSlate: Window 'TF字體' being destroyed
+[2020.09.04-09.12.08:736][874]LogSlate: Window 'TF字體' being destroyed
+[2020.09.04-09.12.15:677][688]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/字體/TF字體.TF字體
+[2020.09.04-09.12.26:662][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/TF字體" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset" SILENT=true
+[2020.09.04-09.12.26:669][961]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF字體FC60A3AD4F6FC3F47CA6E3B652CC5181.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset'
+[2020.09.04-09.12.26:681][961]AssetCheck: New page: Asset Save: TF字體
+[2020.09.04-09.12.26:681][961]LogContentValidation: Display: Validating Font /Game/字體/TF字體.TF字體
+[2020.09.04-09.12.27:675][ 77]LogSlate: Window 'TF字體' being destroyed
+[2020.09.04-09.12.27:679][ 77]LogSlate: Window 'TF字體' being destroyed
+[2020.09.04-09.12.46:202][277]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2020.09.04-09.13.01:900][135]Cmd: TRANSACTION UNDO
+[2020.09.04-09.13.01:900][135]LogEditorTransaction: Undo Move Actors
+[2020.09.04-09.13.11:948][277]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-09.13.15:013][641]Cmd: TRANSACTION UNDO
+[2020.09.04-09.13.15:013][641]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.04-09.13.15:426][653]Cmd: TRANSACTION UNDO
+[2020.09.04-09.13.15:426][653]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.04-09.13.15:844][693]Cmd: TRANSACTION UNDO
+[2020.09.04-09.13.15:844][693]LogEditorTransaction: Undo Select Brush Surface
+[2020.09.04-09.13.16:274][738]Cmd: TRANSACTION UNDO
+[2020.09.04-09.13.16:274][738]LogEditorTransaction: Undo Edit Text
+[2020.09.04-09.13.51:772][919]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.09.04-09.13.52:000][919]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map_Auto668757DA3431E6A68F988C5B4CBF28EAF.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/VirtualRealityBP/Maps/TF2_map_Auto6.umap'
+[2020.09.04-09.13.52:001][919]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/TF2_map' took 0.294
+[2020.09.04-09.13.52:001][919]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.294
