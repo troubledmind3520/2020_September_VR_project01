@@ -1869,3 +1869,1000 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.04-09.13.52:000][919]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map_Auto668757DA3431E6A68F988C5B4CBF28EAF.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/VirtualRealityBP/Maps/TF2_map_Auto6.umap'
 [2020.09.04-09.13.52:001][919]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/TF2_map' took 0.294
 [2020.09.04-09.13.52:001][919]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.294
+[2020.09.04-09.22.36:511][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.09.04-09.22.36:701][364]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map2F8B9B144F5633EDA75AE5BEA79492A9.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-09.22.36:736][364]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-09.22.36:736][364]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-09.23.09:127][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.09.04-09.23.09:308][494]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map011C1FA74699E6B067F12784DEE1D569.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-09.23.09:343][494]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-09.23.09:343][494]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-09.23.18:761][604]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/字體/TF字體.TF字體
+[2020.09.04-09.23.33:966][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/TF字體" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset" SILENT=true
+[2020.09.04-09.23.33:978][369]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF字體73D019AA4329CD8C63C49885D1EDEE1D.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset'
+[2020.09.04-09.23.33:988][369]AssetCheck: New page: Asset Save: TF字體
+[2020.09.04-09.23.33:988][369]LogContentValidation: Display: Validating Font /Game/字體/TF字體.TF字體
+[2020.09.04-09.23.38:105][824]LogFactory: FactoryCreateNew: Font with TrueTypeFontFactory (1 0 )
+[2020.09.04-09.23.38:128][824]LogTTFontImport: Warning: Importing 257 characters (unicode range ff1a-ff1a)
+[2020.09.04-09.23.38:128][824]LogTTFontImport: OutPutGlyph X=1 Y=1 FontHeight=22 FontWidth=8 Char=0020 U=1 V=2 =Usize=8 VSIze=22
+[2020.09.04-09.23.38:135][824]LogTTFontImport: Warning: A texture named TF字體_PageA already exists!
+[2020.09.04-09.23.38:136][824]LogTexture: Display: Building textures: TF字體_PageA (G8, 256X32)
+[2020.09.04-09.23.38:137][824]LogTTFontImport: ImportTrueTypeFont: Total Time 0.01
+[2020.09.04-09.23.39:398][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/TF字體" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset" SILENT=true
+[2020.09.04-09.23.39:405][920]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF字體BDE4FD88490425DF6F58EBAC52BE19F5.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset'
+[2020.09.04-09.23.39:416][920]AssetCheck: New page: Asset Save: TF字體
+[2020.09.04-09.23.39:416][920]LogContentValidation: Display: Validating Font /Game/字體/TF字體.TF字體
+[2020.09.04-09.23.43:094][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.09.04-09.23.43:274][337]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map9C4FD2B3485E494168B223A09F1EF9A5.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-09.23.43:309][337]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-09.23.43:309][337]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-09.24.26:580][439]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/字體/M_TF2字體.M_TF2字體
+[2020.09.04-09.24.26:600][439]LogMaterial: Display: Missing cached shader map for material M_TF2字體, compiling. 
+[2020.09.04-09.24.26:674][439]LogMaterial: Display: Missing cached shader map for material M_TF2字體, compiling. 
+[2020.09.04-09.24.26:689][439]LogMaterial: Display: Missing cached shader map for material M_TF2字體, compiling. 
+[2020.09.04-09.24.26:708][439]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.09.04-09.24.26:708][439]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2020.09.04-09.24.26:709][439]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.09.04-09.24.26:709][439]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2020.09.04-09.24.26:709][439]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.09.04-09.24.26:709][439]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2020.09.04-09.24.26:709][439]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2020.09.04-09.24.26:709][439]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.09.04-09.24.26:709][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.04-09.24.26:719][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2020.09.04-09.24.26:998][461]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.09.04-09.24.27:008][462]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.09.04-09.24.27:016][463]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.09.04-09.24.27:100][473]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2020.09.04-09.24.27:118][475]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.09.04-09.24.27:153][479]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.09.04-09.24.27:187][481]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.09.04-09.24.27:232][486]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2020.09.04-09.24.27:273][491]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2020.09.04-09.24.27:300][494]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2020.09.04-09.24.27:317][496]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.09.04-09.24.27:358][501]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.09.04-09.24.27:479][515]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.09.04-09.24.27:488][516]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.09.04-09.24.27:741][543]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.09.04-09.24.27:845][553]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.09.04-09.24.27:900][559]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.09.04-09.24.28:022][569]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.09.04-09.24.28:033][570]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.09.04-09.24.28:131][578]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.09.04-09.24.28:138][579]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.09.04-09.24.28:156][581]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.09.04-09.24.28:207][587]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.09.04-09.24.28:334][602]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.09.04-09.24.28:335][602]LogMaterialEditor: Saving and Compiling material M_TF2字體
+[2020.09.04-09.24.28:366][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/M_TF2字體" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/M_TF2字體.uasset" SILENT=true
+[2020.09.04-09.24.28:428][602]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/M_TF2字體4675AC6E4977DEBCA230828BD1E76306.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/M_TF2字體.uasset'
+[2020.09.04-09.24.28:446][602]AssetCheck: New page: Asset Save: M_TF2字體
+[2020.09.04-09.24.28:446][602]LogContentValidation: Display: Validating Material /Game/字體/M_TF2字體.M_TF2字體
+[2020.09.04-09.24.28:496][605]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.09.04-09.24.28:543][610]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.09.04-09.24.28:660][622]MaterialEditorStats: Base pass shader: 178 instructions
+[2020.09.04-09.24.28:660][622]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 252 instructions
+[2020.09.04-09.24.28:660][622]MaterialEditorStats: Base pass vertex shader: 145 instructions
+[2020.09.04-09.24.28:660][622]MaterialEditorStats: Texture samplers: 3/16
+[2020.09.04-09.24.28:660][622]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.09.04-09.24.28:660][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.04-09.24.32:617][ 90]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.24.32:617][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-09.24.34:463][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.04-09.24.34:510][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.09.04-09.24.34:689][297]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_mapD7151DDF400BFADD04B773B3C7522197.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-09.24.34:713][297]LogFileHelpers: Saving map 'TF2_map' took 0.232
+[2020.09.04-09.24.34:722][297]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-09.24.34:722][297]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-09.24.39:244][819]BlueprintLog: New page: Compile BP_棒球
+[2020.09.04-09.24.39:433][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.09.04-09.24.42:098][128]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/字體/TF2字體_tf2_build_Font.TF2字體_tf2_build_Font
+[2020.09.04-09.24.47:859][786]LogSlate: Window 'TF2字體_tf2_build_Font' being destroyed
+[2020.09.04-09.24.47:862][786]LogSlate: Window 'TF2字體_tf2_build_Font' being destroyed
+[2020.09.04-09.24.50:064][ 35]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/字體/TF字體.TF字體
+[2020.09.04-09.24.53:448][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/TF字體" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset" SILENT=true
+[2020.09.04-09.24.53:455][396]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF字體9B571DC14A682B8A2E5BA4A46A374311.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset'
+[2020.09.04-09.24.53:465][396]AssetCheck: New page: Asset Save: TF字體
+[2020.09.04-09.24.53:465][396]LogContentValidation: Display: Validating Font /Game/字體/TF字體.TF字體
+[2020.09.04-09.24.58:654][807]LogSlate: Window 'TF字體' being destroyed
+[2020.09.04-09.24.58:658][807]LogSlate: Window 'TF字體' being destroyed
+[2020.09.04-09.25.01:767][174]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-09.25.03:120][326]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-09.25.04:431][482]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-09.25.07:352][829]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2020.09.04-09.25.09:103][ 36]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Kill數量)
+[2020.09.04-09.25.46:281][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.09.04-09.25.46:329][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.09.04-09.25.46:505][439]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_mapC1222135440CA9BF6ACEF08114049CA1.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-09.25.46:531][439]LogFileHelpers: Saving map 'TF2_map' took 0.233
+[2020.09.04-09.25.46:542][439]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-09.25.46:542][439]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-09.25.51:015][955]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/字體/M_TF2字體.M_TF2字體
+[2020.09.04-09.25.51:019][955]LogMaterial: Display: Missing cached shader map for material M_TF2字體, compiling. 
+[2020.09.04-09.25.51:082][955]LogMaterial: Display: Missing cached shader map for material M_TF2字體, compiling. 
+[2020.09.04-09.25.51:093][955]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.09.04-09.25.51:093][955]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2020.09.04-09.25.51:093][955]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.09.04-09.25.51:093][955]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2020.09.04-09.25.51:093][955]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.09.04-09.25.51:093][955]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2020.09.04-09.25.51:093][955]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2020.09.04-09.25.51:093][955]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.09.04-09.25.51:097][955]LogMaterial: Display: Missing cached shader map for material M_TF2字體, compiling. 
+[2020.09.04-09.25.51:120][955]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.04-09.25.51:128][955]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2020.09.04-09.25.51:373][971]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2020.09.04-09.25.51:394][973]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2020.09.04-09.25.51:403][974]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2020.09.04-09.25.51:464][979]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2020.09.04-09.25.51:496][982]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 30
+[2020.09.04-09.25.51:514][983]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2020.09.04-09.25.51:514][983]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2020.09.04-09.25.51:588][992]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2020.09.04-09.25.51:598][993]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.09.04-09.25.51:606][994]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2020.09.04-09.25.51:649][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.09.04-09.25.51:690][  3]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.09.04-09.25.51:798][ 10]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2020.09.04-09.25.51:807][ 11]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2020.09.04-09.25.51:824][ 13]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.09.04-09.25.51:832][ 14]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2020.09.04-09.25.51:883][ 20]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2020.09.04-09.25.51:891][ 21]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2020.09.04-09.25.51:950][ 28]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.09.04-09.25.51:992][ 33]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2020.09.04-09.25.52:078][ 39]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2020.09.04-09.25.52:148][ 45]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.09.04-09.25.52:335][ 64]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.09.04-09.25.52:470][ 78]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.09.04-09.25.52:530][ 84]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.09.04-09.25.52:586][ 90]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.09.04-09.25.52:620][ 94]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.09.04-09.25.52:720][106]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.09.04-09.25.52:770][111]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.09.04-09.25.52:794][114]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.09.04-09.25.52:827][118]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.09.04-09.25.52:937][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.09.04-09.25.53:108][150]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.09.04-09.25.53:236][164]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.09.04-09.25.53:334][175]MaterialEditorStats: Base pass shader: 178 instructions
+[2020.09.04-09.25.53:334][175]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 252 instructions
+[2020.09.04-09.25.53:334][175]MaterialEditorStats: Base pass vertex shader: 145 instructions
+[2020.09.04-09.25.53:334][175]MaterialEditorStats: Texture samplers: 3/16
+[2020.09.04-09.25.53:334][175]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.09.04-09.25.53:334][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.04-09.26.05:967][633]LogMaterial: Display: Missing cached shader map for material M_TF2字體, compiling. 
+[2020.09.04-09.26.05:986][634]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.09.04-09.26.05:986][634]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2020.09.04-09.26.05:986][634]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.09.04-09.26.05:986][634]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2020.09.04-09.26.05:986][634]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.09.04-09.26.05:986][634]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2020.09.04-09.26.05:986][634]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2020.09.04-09.26.05:986][634]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.09.04-09.26.06:199][657]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2020.09.04-09.26.06:213][659]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2020.09.04-09.26.06:213][659]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.09.04-09.26.06:213][659]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2020.09.04-09.26.06:298][669]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.09.04-09.26.06:306][670]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2020.09.04-09.26.06:351][675]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2020.09.04-09.26.06:383][679]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.09.04-09.26.06:392][680]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.09.04-09.26.06:483][691]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.09.04-09.26.06:483][691]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.09.04-09.26.06:506][694]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.09.04-09.26.06:627][708]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.09.04-09.26.06:669][713]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.09.04-09.26.06:831][732]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.09.04-09.26.06:952][746]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.09.04-09.26.06:986][750]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-09.26.07:048][757]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.09.04-09.26.21:200][435]LogMaterialEditor: Saving and Compiling material M_TF2字體
+[2020.09.04-09.26.21:218][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/M_TF2字體" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/M_TF2字體.uasset" SILENT=true
+[2020.09.04-09.26.21:225][435]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/M_TF2字體D3CF76214FC15971574D1C8FBC782BCB.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/M_TF2字體.uasset'
+[2020.09.04-09.26.21:235][435]AssetCheck: New page: Asset Save: M_TF2字體
+[2020.09.04-09.26.21:235][435]LogContentValidation: Display: Validating Material /Game/字體/M_TF2字體.M_TF2字體
+[2020.09.04-09.26.22:118][529]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.26.22:118][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-09.26.43:758][ 65]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-09.26.48:023][571]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2020.09.04-09.26.50:840][901]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2020.09.04-09.27.12:488][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.09.04-09.27.12:669][482]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map07F8D5CA4D9CD49E3C447F846EAE527E.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-09.27.12:703][482]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-09.27.12:703][482]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-09.27.24:606][874]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.09.04-09.27.38:321][506]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-09.28.29:087][541]Cmd: TRANSACTION UNDO
+[2020.09.04-09.28.29:087][541]LogEditorTransaction: Undo Move Actors
+[2020.09.04-09.28.48:771][837]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球17)
+[2020.09.04-09.28.49:554][929]Cmd: DELETE
+[2020.09.04-09.28.49:554][929]Cmd: ACTOR DELETE
+[2020.09.04-09.28.49:556][929]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.28.49:587][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.09.04-09.28.49:591][929]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.09.04-09.28.52:483][276]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球8)
+[2020.09.04-09.28.59:219][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球9)
+[2020.09.04-09.29.00:927][283]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球2)
+[2020.09.04-09.29.04:212][673]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球)
+[2020.09.04-09.29.10:788][436]Cmd: DELETE
+[2020.09.04-09.29.10:788][436]Cmd: ACTOR DELETE
+[2020.09.04-09.29.10:790][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:791][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:791][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:792][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:792][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:792][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:793][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:793][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:793][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:794][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:794][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:794][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:795][436]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.29.10:823][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.09.04-09.29.10:826][436]LogEditorActor: Deleted 13 Actors (0.037 secs)
+[2020.09.04-09.29.11:878][562]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球2)
+[2020.09.04-09.29.13:969][810]Cmd: TRANSACTION UNDO
+[2020.09.04-09.29.13:969][810]LogEditorTransaction: Undo Move Actors
+[2020.09.04-09.30.15:154][ 41]Cmd: TRANSACTION UNDO
+[2020.09.04-09.30.15:154][ 41]LogEditorTransaction: Undo Move Actors
+[2020.09.04-09.30.33:039][121]Cmd: TRANSACTION UNDO
+[2020.09.04-09.30.33:039][121]LogEditorTransaction: Undo Move Actors
+[2020.09.04-09.30.38:425][710]Cmd: TRANSACTION UNDO
+[2020.09.04-09.30.38:425][710]LogEditorTransaction: Undo Move Actors
+[2020.09.04-09.31.07:052][ 69]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球26)
+[2020.09.04-09.31.08:618][255]Cmd: DELETE
+[2020.09.04-09.31.08:618][255]Cmd: ACTOR DELETE
+[2020.09.04-09.31.08:621][255]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.08:655][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.09.04-09.31.08:659][255]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.09.04-09.31.09:170][316]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球15)
+[2020.09.04-09.31.09:279][327]Cmd: DELETE
+[2020.09.04-09.31.09:279][327]Cmd: ACTOR DELETE
+[2020.09.04-09.31.09:281][327]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.09:312][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.09.04-09.31.09:312][327]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.04-09.31.37:518][666]Cmd: TRANSACTION UNDO
+[2020.09.04-09.31.37:519][666]LogEditorTransaction: Undo Move Actors
+[2020.09.04-09.31.51:134][235]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球45)
+[2020.09.04-09.31.51:949][331]Cmd: DELETE
+[2020.09.04-09.31.51:949][331]Cmd: ACTOR DELETE
+[2020.09.04-09.31.51:952][331]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.51:986][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.09.04-09.31.51:989][331]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.09.04-09.31.52:484][390]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球46)
+[2020.09.04-09.31.52:599][402]Cmd: DELETE
+[2020.09.04-09.31.52:599][402]Cmd: ACTOR DELETE
+[2020.09.04-09.31.52:601][402]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.52:630][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.09.04-09.31.52:631][402]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.09.04-09.31.52:967][442]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球44)
+[2020.09.04-09.31.53:065][452]Cmd: DELETE
+[2020.09.04-09.31.53:065][452]Cmd: ACTOR DELETE
+[2020.09.04-09.31.53:067][452]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.53:095][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.09.04-09.31.53:095][452]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.09.04-09.31.53:448][494]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球47)
+[2020.09.04-09.31.53:556][505]Cmd: DELETE
+[2020.09.04-09.31.53:556][505]Cmd: ACTOR DELETE
+[2020.09.04-09.31.53:558][505]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.53:589][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.09.04-09.31.53:589][505]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.04-09.31.53:918][544]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球48)
+[2020.09.04-09.31.54:033][556]Cmd: DELETE
+[2020.09.04-09.31.54:033][556]Cmd: ACTOR DELETE
+[2020.09.04-09.31.54:035][556]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.54:063][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.09.04-09.31.54:064][556]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.09.04-09.31.54:392][595]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球49)
+[2020.09.04-09.31.54:550][612]Cmd: DELETE
+[2020.09.04-09.31.54:550][612]Cmd: ACTOR DELETE
+[2020.09.04-09.31.54:552][612]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.54:582][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.09.04-09.31.54:583][612]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.04-09.31.54:887][648]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球50)
+[2020.09.04-09.31.55:027][663]Cmd: DELETE
+[2020.09.04-09.31.55:027][663]Cmd: ACTOR DELETE
+[2020.09.04-09.31.55:029][663]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.55:059][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.09.04-09.31.55:060][663]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.09.04-09.31.55:463][711]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球51)
+[2020.09.04-09.31.55:628][729]Cmd: DELETE
+[2020.09.04-09.31.55:628][729]Cmd: ACTOR DELETE
+[2020.09.04-09.31.55:630][729]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.55:658][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.09.04-09.31.55:659][729]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.09.04-09.31.55:870][754]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球52)
+[2020.09.04-09.31.56:202][792]Cmd: DELETE
+[2020.09.04-09.31.56:202][792]Cmd: ACTOR DELETE
+[2020.09.04-09.31.56:204][792]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.56:233][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.09.04-09.31.56:234][792]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.09.04-09.31.56:871][868]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球53)
+[2020.09.04-09.31.57:061][889]Cmd: DELETE
+[2020.09.04-09.31.57:061][889]Cmd: ACTOR DELETE
+[2020.09.04-09.31.57:063][889]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.57:095][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.09.04-09.31.57:095][889]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.09.04-09.31.57:798][973]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球35)
+[2020.09.04-09.31.57:923][986]Cmd: DELETE
+[2020.09.04-09.31.57:923][986]Cmd: ACTOR DELETE
+[2020.09.04-09.31.57:925][986]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.57:953][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.09.04-09.31.57:954][986]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.09.04-09.31.58:323][ 30]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球55)
+[2020.09.04-09.31.58:456][ 44]Cmd: DELETE
+[2020.09.04-09.31.58:456][ 44]Cmd: ACTOR DELETE
+[2020.09.04-09.31.58:458][ 44]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.31.58:488][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.09.04-09.31.58:488][ 44]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.09.04-09.32.10:723][511]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球26)
+[2020.09.04-09.32.11:490][601]Cmd: DELETE
+[2020.09.04-09.32.11:490][601]Cmd: ACTOR DELETE
+[2020.09.04-09.32.11:492][601]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.32.11:522][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.09.04-09.32.11:524][601]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.04-09.32.14:023][901]Cmd: TRANSACTION UNDO
+[2020.09.04-09.32.14:023][901]LogEditorTransaction: Undo Delete Actors
+[2020.09.04-09.32.18:812][428]Cmd: DELETE
+[2020.09.04-09.32.18:812][428]Cmd: ACTOR DELETE
+[2020.09.04-09.32.18:814][428]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.32.18:843][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.09.04-09.32.18:844][428]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.09.04-09.32.19:383][493]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球36)
+[2020.09.04-09.32.19:457][500]Cmd: DELETE
+[2020.09.04-09.32.19:457][500]Cmd: ACTOR DELETE
+[2020.09.04-09.32.19:459][500]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.32.19:488][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.09.04-09.32.19:489][500]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.09.04-09.32.19:775][534]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球15)
+[2020.09.04-09.32.19:979][556]Cmd: DELETE
+[2020.09.04-09.32.19:979][556]Cmd: ACTOR DELETE
+[2020.09.04-09.32.19:981][556]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.32.20:007][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.09.04-09.32.20:008][556]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.09.04-09.32.20:360][598]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球37)
+[2020.09.04-09.32.20:465][608]Cmd: DELETE
+[2020.09.04-09.32.20:465][608]Cmd: ACTOR DELETE
+[2020.09.04-09.32.20:467][608]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.32.20:498][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.09.04-09.32.20:498][608]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.04-09.32.20:984][666]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球38)
+[2020.09.04-09.32.21:083][676]Cmd: DELETE
+[2020.09.04-09.32.21:083][676]Cmd: ACTOR DELETE
+[2020.09.04-09.32.21:085][676]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.32.21:115][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.09.04-09.32.21:116][676]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.04-09.32.21:360][705]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球39)
+[2020.09.04-09.32.21:493][719]Cmd: DELETE
+[2020.09.04-09.32.21:493][719]Cmd: ACTOR DELETE
+[2020.09.04-09.32.21:495][719]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.32.21:526][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.09.04-09.32.21:527][719]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.04-09.32.21:788][750]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球40)
+[2020.09.04-09.32.22:044][779]Cmd: DELETE
+[2020.09.04-09.32.22:044][779]Cmd: ACTOR DELETE
+[2020.09.04-09.32.22:046][779]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.32.22:076][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.09.04-09.32.22:076][779]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.09.04-09.32.22:345][811]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球41)
+[2020.09.04-09.32.22:494][827]Cmd: DELETE
+[2020.09.04-09.32.22:494][827]Cmd: ACTOR DELETE
+[2020.09.04-09.32.22:496][827]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.32.22:526][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.09.04-09.32.22:527][827]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.04-09.32.22:796][859]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球42)
+[2020.09.04-09.32.22:953][876]Cmd: DELETE
+[2020.09.04-09.32.22:953][876]Cmd: ACTOR DELETE
+[2020.09.04-09.32.22:955][876]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.32.22:984][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.09.04-09.32.22:985][876]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.09.04-09.32.23:279][911]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球43)
+[2020.09.04-09.32.23:628][951]Cmd: DELETE
+[2020.09.04-09.32.23:628][951]Cmd: ACTOR DELETE
+[2020.09.04-09.32.23:630][951]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.32.23:660][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.09.04-09.32.23:661][951]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.04-09.32.29:656][669]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球63)
+[2020.09.04-09.33.16:147][211]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球63)
+[2020.09.04-09.33.23:458][ 78]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球64)
+[2020.09.04-09.33.56:914][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球75)
+[2020.09.04-09.33.57:588][118]Cmd: DELETE
+[2020.09.04-09.33.57:588][118]Cmd: ACTOR DELETE
+[2020.09.04-09.33.57:590][118]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.33.57:620][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.09.04-09.33.57:623][118]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.09.04-09.33.59:957][398]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球83)
+[2020.09.04-09.34.00:565][469]Cmd: DELETE
+[2020.09.04-09.34.00:565][469]Cmd: ACTOR DELETE
+[2020.09.04-09.34.00:567][469]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.34.00:596][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.09.04-09.34.00:597][469]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.04-09.34.07:925][348]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球82)
+[2020.09.04-09.34.46:930][976]Cmd: TRANSACTION UNDO
+[2020.09.04-09.34.46:930][976]LogEditorTransaction: Undo Move Actors
+[2020.09.04-09.35.12:957][ 15]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球65)
+[2020.09.04-09.35.13:865][122]Cmd: DELETE
+[2020.09.04-09.35.13:865][122]Cmd: ACTOR DELETE
+[2020.09.04-09.35.13:868][122]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.35.13:901][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.09.04-09.35.13:905][122]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.09.04-09.35.14:495][193]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球56)
+[2020.09.04-09.35.14:627][207]Cmd: DELETE
+[2020.09.04-09.35.14:627][207]Cmd: ACTOR DELETE
+[2020.09.04-09.35.14:629][207]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.35.14:660][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.09.04-09.35.14:661][207]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.09.04-09.35.22:165][106]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球74)
+[2020.09.04-09.35.22:931][196]Cmd: DELETE
+[2020.09.04-09.35.22:931][196]Cmd: ACTOR DELETE
+[2020.09.04-09.35.22:933][196]LogEditorActor: Deleted Actor: BP_棒球_C
+[2020.09.04-09.35.22:963][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.09.04-09.35.22:965][196]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.09.04-09.35.26:163][580]Cmd: TRANSACTION UNDO
+[2020.09.04-09.35.26:163][580]LogEditorTransaction: Undo Delete Actors
+[2020.09.04-09.35.51:831][575]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-09.35.53:785][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.09.04-09.35.53:830][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.09.04-09.35.54:030][796]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_mapD98FB08842AEDF0D5EF29E9E5A284187.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-09.35.54:059][796]LogFileHelpers: Saving map 'TF2_map' took 0.259
+[2020.09.04-09.35.54:068][796]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-09.35.54:068][796]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-09.36.01:640][686]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.01:749][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.04-09.36.01:750][686]PIE: New page: SIE session: TF2_map (2020年9月5日 上午1:36:01)
+[2020.09.04-09.36.01:767][686]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.04-09.36.01:785][686]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.09.04-09.36.01:822][686]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map
+[2020.09.04-09.36.01:829][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007727s)
+[2020.09.04-09.36.01:845][686]LogAIModule: Creating AISystem for world TF2_map
+[2020.09.04-09.36.01:858][686]LogPlayLevel: PIE: World Init took: (0.028345s)
+[2020.09.04-09.36.01:859][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/TF2_map.TF2_map to /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map.TF2_map (0.036681s)
+[2020.09.04-09.36.01:890][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.09.04-09.36.01:920][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.04-09.36.01:920][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.04-09.36.01:920][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.04-09.36.01:920][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.04-09.36.01:920][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.04-09.36.01:920][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.04-09.36.01:920][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.04-09.36.01:920][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.04-09.36.01:921][686]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.04-09.36.01:921][686]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.04-09.36.01:925][686]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.04-09.36.01:925][686]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.04-09.36.01:925][686]LogAudioMixer: Display: Is Default: Yes
+[2020.09.04-09.36.01:925][686]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.04-09.36.01:925][686]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.04-09.36.01:925][686]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.04-09.36.01:925][686]LogAudioMixer: Display: Channel Order:
+[2020.09.04-09.36.01:925][686]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-09.36.01:925][686]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-09.36.02:017][686]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek(R) Audio)
+[2020.09.04-09.36.02:019][686]LogInit: FAudioDevice initialized.
+[2020.09.04-09.36.02:054][686]LogLoad: Game class is 'GameModeBase'
+[2020.09.04-09.36.02:274][686]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map.TF2_map up for play (max tick rate 0) at 2020.09.04-17.36.02
+[2020.09.04-09.36.02:294][686]LogWorld: Bringing up level for play took: 0.022878
+[2020.09.04-09.36.02:295][686]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.09.04-09.36.02:341][686]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.04-09.36.02:555][686]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.09.04-09.36.02:714][686]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map 0.672
+[2020.09.04-09.36.02:736][686]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.11:340][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.11:340][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.11:464][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.11:499][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.04-09.36.11:500][566]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map
+[2020.09.04-09.36.11:501][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.11:501][566]LogWorld: UWorld::CleanupWorld for TF2_map, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.36.11:501][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-09.36.11:534][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.04-09.36.11:534][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.11:539][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-09.36.11:575][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.11:578][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.04-09.36.11:628][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.09.04-09.36.11:654][567]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.09.04-09.36.13:372][772]LogTemp: Repeating last play command: Simulate
+[2020.09.04-09.36.13:384][772]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.13:384][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.04-09.36.13:384][772]PIE: New page: SIE session: TF2_map (2020年9月5日 上午1:36:13)
+[2020.09.04-09.36.13:384][772]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map
+[2020.09.04-09.36.13:392][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007734s)
+[2020.09.04-09.36.13:392][772]LogAIModule: Creating AISystem for world TF2_map
+[2020.09.04-09.36.13:393][772]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2020.09.04-09.36.13:393][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/TF2_map.TF2_map to /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map.TF2_map (0.008503s)
+[2020.09.04-09.36.13:436][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.09.04-09.36.13:436][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.04-09.36.13:436][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.04-09.36.13:436][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.04-09.36.13:436][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.04-09.36.13:436][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.04-09.36.13:436][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.04-09.36.13:436][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.04-09.36.13:436][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.04-09.36.13:437][772]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.04-09.36.13:437][772]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.04-09.36.13:441][772]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.04-09.36.13:441][772]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.04-09.36.13:441][772]LogAudioMixer: Display: Is Default: Yes
+[2020.09.04-09.36.13:441][772]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.04-09.36.13:441][772]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.04-09.36.13:441][772]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.04-09.36.13:441][772]LogAudioMixer: Display: Channel Order:
+[2020.09.04-09.36.13:441][772]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-09.36.13:441][772]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-09.36.13:534][772]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek(R) Audio)
+[2020.09.04-09.36.13:535][772]LogInit: FAudioDevice initialized.
+[2020.09.04-09.36.13:539][772]LogLoad: Game class is 'GameModeBase'
+[2020.09.04-09.36.13:542][772]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map.TF2_map up for play (max tick rate 0) at 2020.09.04-17.36.13
+[2020.09.04-09.36.13:542][772]LogWorld: Bringing up level for play took: 0.002112
+[2020.09.04-09.36.13:542][772]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.09.04-09.36.13:543][772]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.04-09.36.13:545][772]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map -0.497
+[2020.09.04-09.36.13:546][772]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.15:189][966]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.15:189][966]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.15:189][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.15:190][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.04-09.36.15:190][966]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map
+[2020.09.04-09.36.15:190][966]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.15:190][966]LogWorld: UWorld::CleanupWorld for TF2_map, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.36.15:191][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-09.36.15:201][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.04-09.36.15:201][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.15:206][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-09.36.15:235][966]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.15:238][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.04-09.36.15:241][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.09.04-09.36.15:291][971]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.09.04-09.36.44:817][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.09.04-09.36.45:011][478]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_mapDCA4C84049626D19C4021E9A4E5F501B.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-09.36.45:047][478]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-09.36.45:047][478]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-09.36.46:289][627]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-09.36.47:200][731]LogTemp: Repeating last play command: Simulate
+[2020.09.04-09.36.47:211][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.47:211][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.04-09.36.47:211][731]PIE: New page: SIE session: TF2_map (2020年9月5日 上午1:36:47)
+[2020.09.04-09.36.47:211][731]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map
+[2020.09.04-09.36.47:219][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007804s)
+[2020.09.04-09.36.47:220][731]LogAIModule: Creating AISystem for world TF2_map
+[2020.09.04-09.36.47:220][731]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2020.09.04-09.36.47:220][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/TF2_map.TF2_map to /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map.TF2_map (0.008609s)
+[2020.09.04-09.36.47:250][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.09.04-09.36.47:251][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.04-09.36.47:251][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.04-09.36.47:251][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.04-09.36.47:251][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.04-09.36.47:251][731]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.04-09.36.47:251][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.04-09.36.47:251][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.04-09.36.47:251][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.04-09.36.47:252][731]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.04-09.36.47:252][731]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.04-09.36.47:256][731]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.04-09.36.47:256][731]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.04-09.36.47:256][731]LogAudioMixer: Display: Is Default: Yes
+[2020.09.04-09.36.47:256][731]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.04-09.36.47:256][731]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.04-09.36.47:256][731]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.04-09.36.47:256][731]LogAudioMixer: Display: Channel Order:
+[2020.09.04-09.36.47:256][731]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-09.36.47:256][731]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-09.36.47:348][731]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek(R) Audio)
+[2020.09.04-09.36.47:349][731]LogInit: FAudioDevice initialized.
+[2020.09.04-09.36.47:356][731]LogLoad: Game class is 'GameModeBase'
+[2020.09.04-09.36.47:359][731]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map.TF2_map up for play (max tick rate 0) at 2020.09.04-17.36.47
+[2020.09.04-09.36.47:359][731]LogWorld: Bringing up level for play took: 0.002250
+[2020.09.04-09.36.47:359][731]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.09.04-09.36.47:360][731]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.04-09.36.47:362][731]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map -0.681
+[2020.09.04-09.36.47:367][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.51:417][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.51:417][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.51:417][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.51:417][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.04-09.36.51:417][187]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_TF2_map
+[2020.09.04-09.36.51:418][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.51:418][187]LogWorld: UWorld::CleanupWorld for TF2_map, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.36.51:419][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-09.36.51:429][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.04-09.36.51:429][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map' with GeneratedClass '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.TF2_map'
+[2020.09.04-09.36.51:434][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-09.36.51:462][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.36.51:465][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.04-09.36.51:469][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.09.04-09.36.51:520][192]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.09.04-09.36.54:149][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.09.04-09.36.54:340][499]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_mapC446DD5D4BF65F441E2E55A55112CC61.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-09.36.54:374][499]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-09.36.54:374][499]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-09.36.58:110][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.09.04-09.37.19:268][463]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2020.09.04-09.37.19:268][463]LogTemp: Resetting audio stream to device id 
+[2020.09.04-09.38.45:472][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.09.04-09.38.45:526][746]LogSlate: Window 'VR_project01 - Unreal Editor' being destroyed
+[2020.09.04-09.38.45:583][746]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.04-09.38.45:583][746]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.38.45:583][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-09.38.45:671][747]Cmd: QUIT_EDITOR
+[2020.09.04-09.38.45:671][747]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.09.04-09.38.45:679][747]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.09.04-09.38.45:679][747]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-09.38.46:607][747]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微軟注音).
+[2020.09.04-09.38.46:615][747]LogExit: Preparing to exit.
+[2020.09.04-09.38.46:855][747]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.38.46:858][747]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.38.46:860][747]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.38.46:863][747]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.38.46:865][747]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.38.46:892][747]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.04-09.38.46:908][747]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.38.46:908][747]LogExit: Editor shut down
+[2020.09.04-09.38.46:911][747]LogExit: Transaction tracking system shut down
+[2020.09.04-09.38.47:258][747]LogExit: Object subsystem successfully closed.
+[2020.09.04-09.38.47:274][747]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.09.04-09.38.47:293][747]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (712)
+[2020.09.04-09.38.47:293][747]LogModuleManager: Shutting down and abandoning module Voice (710)
+[2020.09.04-09.38.47:329][747]LogModuleManager: Shutting down and abandoning module FontEditor (708)
+[2020.09.04-09.38.47:329][747]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (706)
+[2020.09.04-09.38.47:329][747]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (704)
+[2020.09.04-09.38.47:329][747]LogModuleManager: Shutting down and abandoning module BlueprintGraph (702)
+[2020.09.04-09.38.47:329][747]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (700)
+[2020.09.04-09.38.47:329][747]LogModuleManager: Shutting down and abandoning module MeshBuilder (698)
+[2020.09.04-09.38.47:329][747]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.09.04-09.38.47:329][747]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.09.04-09.38.47:329][747]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.09.04-09.38.47:331][747]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.09.04-09.38.47:332][747]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.09.04-09.38.48:087][747]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.09.04-09.38.48:089][747]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.09.04-09.38.48:089][747]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.09.04-09.38.48:089][747]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.09.04-09.38.48:089][747]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.09.04-09.38.48:089][747]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.09.04-09.38.48:089][747]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.09.04-09.38.48:089][747]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.09.04-09.38.48:120][747]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.09.04-09.38.48:120][747]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.09.04-09.38.48:120][747]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.09.04-09.38.48:120][747]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.09.04-09.38.48:120][747]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.09.04-09.38.48:120][747]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.09.04-09.38.48:120][747]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.09.04-09.38.48:120][747]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.09.04-09.38.48:120][747]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.09.04-09.38.48:120][747]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.09.04-09.38.48:120][747]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.09.04-09.38.48:126][747]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.09.04-09.38.48:126][747]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.09.04-09.38.48:126][747]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.09.04-09.38.48:126][747]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.09.04-09.38.48:127][747]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.09.04-09.38.48:127][747]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.09.04-09.38.48:127][747]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.09.04-09.38.48:128][747]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.09.04-09.38.48:129][747]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.09.04-09.38.48:129][747]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.09.04-09.38.48:129][747]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.09.04-09.38.48:129][747]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.09.04-09.38.48:129][747]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.09.04-09.38.48:132][747]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.09.04-09.38.48:277][747]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.09.04-09.38.48:278][747]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.09.04-09.38.48:379][747]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.09.04-09.38.48:479][747]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.09.04-09.38.48:479][747]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.09.04-09.38.48:479][747]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.09.04-09.38.48:480][747]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.09.04-09.38.48:480][747]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.09.04-09.38.48:480][747]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.09.04-09.38.48:480][747]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.09.04-09.38.48:480][747]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.09.04-09.38.48:481][747]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.09.04-09.38.48:481][747]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.09.04-09.38.48:481][747]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.09.04-09.38.48:481][747]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.09.04-09.38.48:481][747]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.09.04-09.38.48:482][747]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.09.04-09.38.48:483][747]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.09.04-09.38.48:484][747]LogDerivedDataCache: Shutdown
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.09.04-09.38.48:484][747]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.09.04-09.38.48:485][747]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.09.04-09.38.48:485][747]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.09.04-09.38.48:485][747]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.09.04-09.38.48:485][747]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.09.04-09.38.48:485][747]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.09.04-09.38.48:485][747]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.09.04-09.38.48:485][747]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.09.04-09.38.48:485][747]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.09.04-09.38.48:485][747]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.09.04-09.38.48:489][747]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.09.04-09.38.48:489][747]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.09.04-09.38.48:489][747]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.09.04-09.38.48:489][747]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.09.04-09.38.48:490][747]LogHMD: Freeing OpenVRDLLHandle.
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.09.04-09.38.48:490][747]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.09.04-09.38.48:506][747]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.09.04-09.38.48:506][747]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.09.04-09.38.48:506][747]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2507A775-4092-163B-BC06-5BACE1421118%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a0119c19464f79832512e4a0f7d829a7%7C6e8d75c0cff14d1195e95d067f2eba62%7C3bc869e1-6495-4be4-8411-49717fca9374&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.09.04-09.38.48:525][747]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.09.04-09.38.48:525][747]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.09.04-09.38.48:527][747]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.09.04-09.38.48:527][747]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.09.04-09.38.48:527][747]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.09.04-09.38.48:527][747]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.09.04-09.38.48:527][747]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.09.04-09.38.48:527][747]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.09.04-09.38.48:527][747]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.09.04-09.38.48:527][747]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.09.04-09.38.48:527][747]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.09.04-09.38.48:527][747]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.09.04-09.38.48:527][747]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.09.04-09.38.48:528][747]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.09.04-09.38.48:528][747]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.09.04-09.38.48:528][747]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.09.04-09.38.48:528][747]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.09.04-09.38.48:528][747]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.09.04-09.38.48:529][747]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.09.04-09.38.48:538][747]LogD3D11RHI: Shutdown
+[2020.09.04-09.38.48:538][747]LogD3D11RHI: CleanupD3DDevice
+[2020.09.04-09.38.48:561][747]LogExit: Exiting.
+[2020.09.04-09.38.48:576][747]Log file closed, 09/04/20 17:38:48
