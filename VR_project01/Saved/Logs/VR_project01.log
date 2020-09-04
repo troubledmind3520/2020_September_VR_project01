@@ -1071,3 +1071,767 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.04-08.27.45:197][254]LogFbx: Loading FBX Scene from ../../../../../../Users/IM/Downloads/Ch40_nonPBR.fbx
 [2020.09.04-08.27.45:445][254]LogFbx: FBX Scene Loaded Succesfully
 [2020.09.04-08.27.53:066][254]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.04-08.31.37:069][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.09.04-08.31.37:086][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/偵查兵/textures/scout_head_d" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/偵查兵/textures/scout_head_d.uasset" SILENT=true
+[2020.09.04-08.31.37:178][237]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_head_dE50D313148C68F7EA784F0B889D07410.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/偵查兵/textures/scout_head_d.uasset'
+[2020.09.04-08.31.37:356][237]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_body_blue_d71223A234B29F01B6C7F5BAAA5D13E2D.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/偵查兵/textures/scout_body_blue_d.uasset'
+[2020.09.04-08.31.37:360][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/偵查兵/textures/scout_eye_d" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/偵查兵/textures/scout_eye_d.uasset" SILENT=true
+[2020.09.04-08.31.37:367][237]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_eye_d33950E1941DAA30923EBEA8EB7BF9179.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/偵查兵/textures/scout_eye_d.uasset'
+[2020.09.04-08.31.37:380][237]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.04-08.31.37:380][237]LogContentValidation: Display: Validating Texture2D /Game/偵查兵/textures/scout_head_d.scout_head_d
+[2020.09.04-08.31.37:380][237]LogContentValidation: Display: Validating Texture2D /Game/偵查兵/textures/scout_body_blue_d.scout_body_blue_d
+[2020.09.04-08.31.37:380][237]LogContentValidation: Display: Validating Texture2D /Game/偵查兵/textures/scout_eye_d.scout_eye_d
+[2020.09.04-08.40.57:249][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-08.40.58:603][562]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.04-08.40.58:676][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.09.04-08.40.58:698][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.04-08.40.58:720][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-08.40.58:746][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.09.04-08.40.58:770][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-08.41.02:475][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\textures/scout_body_blue_d.png)
+[2020.09.04-08.41.02:514][765]LogTexture: Display: Building textures: scout_body_blue_d (AutoDXT, 2048X1024)
+[2020.09.04-08.41.02:592][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\textures/scout_eye_d.png)
+[2020.09.04-08.41.02:595][765]LogTexture: Display: Building textures: scout_eye_d (AutoDXT, 256X256)
+[2020.09.04-08.41.02:601][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\textures/scout_head_d.png)
+[2020.09.04-08.41.02:625][765]LogTexture: Display: Building textures: scout_head_d (AutoDXT, 1024X1024)
+[2020.09.04-08.41.02:680][765]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\Scout.fbx)
+[2020.09.04-08.41.02:689][765]LogFbx: Loading FBX Scene from C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\Scout.fbx
+[2020.09.04-08.41.02:707][765]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.04-08.41.12:752][765]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.04-08.41.12:776][765]LogAssetTools: Warning: Failed to import 'C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout.dae'. Unknown extension 'dae'.
+[2020.09.04-08.41.12:778][765]LogAssetTools: Warning: Failed to import 'C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout.mtl'. Unknown extension 'mtl'.
+[2020.09.04-08.41.12:780][765]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout.obj)
+[2020.09.04-08.41.12:904][765]LogFbx: Loading FBX Scene from C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout.obj
+[2020.09.04-08.41.12:973][765]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.04-08.41.16:904][765]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.04-08.41.16:936][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_body_blue_d.tga)
+[2020.09.04-08.41.16:967][765]LogTexture: Display: Building textures: scout_body_blue_d (AutoDXT, 2048X1024)
+[2020.09.04-08.41.17:051][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_body_blue_zombie_d.tga)
+[2020.09.04-08.41.17:061][765]LogTexture: Display: Building textures: scout_body_blue_zombie_d (AutoDXT, 1024X512)
+[2020.09.04-08.41.17:096][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_body_n.tga)
+[2020.09.04-08.41.17:107][765]LogTexture: Display: Building textures: scout_body_n (BC5, 1024X512)
+[2020.09.04-08.41.17:134][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_body_red_d.tga)
+[2020.09.04-08.41.17:164][765]LogTexture: Display: Building textures: scout_body_red_d (AutoDXT, 2048X1024)
+[2020.09.04-08.41.17:271][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_body_red_zombie_d.tga)
+[2020.09.04-08.41.17:280][765]LogTexture: Display: Building textures: scout_body_red_zombie_d (AutoDXT, 1024X512)
+[2020.09.04-08.41.17:320][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_body_s.tga)
+[2020.09.04-08.41.17:346][765]LogTexture: Display: Building textures: scout_body_s (AutoDXT, 2048X1024)
+[2020.09.04-08.41.17:405][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_body_zombie_n.tga)
+[2020.09.04-08.41.17:435][765]LogTexture: Display: Building textures: scout_body_zombie_n (BC5, 2048X1024)
+[2020.09.04-08.41.17:538][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_body_zombie_s.tga)
+[2020.09.04-08.41.17:548][765]LogTexture: Display: Building textures: scout_body_zombie_s (AutoDXT, 1024X512)
+[2020.09.04-08.41.17:562][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_eye_d.tga)
+[2020.09.04-08.41.17:564][765]LogTexture: Display: Building textures: scout_eye_d (AutoDXT, 256X256)
+[2020.09.04-08.41.17:569][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_eye_n.tga)
+[2020.09.04-08.41.17:574][765]LogTexture: Display: Building textures: scout_eye_n (BC5, 256X256)
+[2020.09.04-08.41.17:579][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_eye_s.tga)
+[2020.09.04-08.41.17:582][765]LogTexture: Display: Building textures: scout_eye_s (AutoDXT, 256X256)
+[2020.09.04-08.41.17:592][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_head_d.tga)
+[2020.09.04-08.41.17:608][765]LogTexture: Display: Building textures: scout_head_d (AutoDXT, 1024X1024)
+[2020.09.04-08.41.17:666][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_head_n.tga)
+[2020.09.04-08.41.17:685][765]LogTexture: Display: Building textures: scout_head_n (BC5, 1024X1024)
+[2020.09.04-08.41.17:827][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_head_s.tga)
+[2020.09.04-08.41.17:838][765]LogTexture: Display: Building textures: scout_head_s (AutoDXT, 1024X1024)
+[2020.09.04-08.41.17:878][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_head_zombie_d.tga)
+[2020.09.04-08.41.17:889][765]LogTexture: Display: Building textures: scout_head_zombie_d (AutoDXT, 1024X1024)
+[2020.09.04-08.41.18:026][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_head_zombie_n.tga)
+[2020.09.04-08.41.18:041][765]LogTexture: Display: Building textures: scout_head_zombie_n (BC5, 1024X1024)
+[2020.09.04-08.41.18:076][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/scout_head_zombie_s.tga)
+[2020.09.04-08.41.18:087][765]LogTexture: Display: Building textures: scout_head_zombie_s (AutoDXT, 1024X1024)
+[2020.09.04-08.41.18:112][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/eye-iris-blue.tga)
+[2020.09.04-08.41.18:114][765]LogTexture: Display: Building textures: eye-iris-blue (AutoDXT, 256X256)
+[2020.09.04-08.41.18:122][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/eye-iris-brown.tga)
+[2020.09.04-08.41.18:123][765]LogTexture: Display: Building textures: eye-iris-brown (AutoDXT, 256X256)
+[2020.09.04-08.41.18:221][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/eyeball_l.tga)
+[2020.09.04-08.41.18:222][765]LogTexture: Display: Building textures: eyeball_l (AutoDXT, 64X32)
+[2020.09.04-08.41.18:224][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/eyeball_r.tga)
+[2020.09.04-08.41.18:225][765]LogTexture: Display: Building textures: eyeball_r (AutoDXT, 64X32)
+[2020.09.04-08.41.18:231][765]LogAssetTools: Warning: Failed to import 'C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout.max'. Unknown extension 'max'.
+[2020.09.04-08.41.18:233][765]LogAssetTools: Warning: Failed to import 'C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout.mtl'. Unknown extension 'mtl'.
+[2020.09.04-08.41.18:235][765]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout.obj)
+[2020.09.04-08.41.18:251][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_blue.tga)
+[2020.09.04-08.41.18:264][765]LogTexture: Display: Building textures: scout_blue (AutoDXT, 2048X1024)
+[2020.09.04-08.41.18:773][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_blue_gib.tga)
+[2020.09.04-08.41.18:776][765]LogTexture: Display: Building textures: scout_blue_gib (AutoDXT, 512X512)
+[2020.09.04-08.41.18:801][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_blue_invun.tga)
+[2020.09.04-08.41.18:803][765]LogTexture: Display: Building textures: scout_blue_invun (AutoDXT, 256X256)
+[2020.09.04-08.41.18:818][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_hands.tga)
+[2020.09.04-08.41.18:828][765]LogTexture: Display: Building textures: scout_hands (AutoDXT, 1024X1024)
+[2020.09.04-08.41.18:894][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_hands_normal.tga)
+[2020.09.04-08.41.18:904][765]LogTexture: Display: Building textures: scout_hands_normal (BC5, 1024X1024)
+[2020.09.04-08.41.18:975][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_head.tga)
+[2020.09.04-08.41.18:984][765]LogTexture: Display: Building textures: scout_head (AutoDXT, 1024X1024)
+[2020.09.04-08.41.19:035][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_head_blue_invun.tga)
+[2020.09.04-08.41.19:037][765]LogTexture: Display: Building textures: scout_head_blue_invun (AutoDXT, 256X256)
+[2020.09.04-08.41.19:047][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_head_red_invun.tga)
+[2020.09.04-08.41.19:049][765]LogTexture: Display: Building textures: scout_head_red_invun (AutoDXT, 256X256)
+[2020.09.04-08.41.19:071][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_normal.tga)
+[2020.09.04-08.41.19:094][765]LogTexture: Display: Building textures: scout_normal (BC5, 2048X1024)
+[2020.09.04-08.41.19:203][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_red.tga)
+[2020.09.04-08.41.19:213][765]LogTexture: Display: Building textures: scout_red (AutoDXT, 2048X1024)
+[2020.09.04-08.41.19:706][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_red_gib.tga)
+[2020.09.04-08.41.19:712][765]LogTexture: Display: Building textures: scout_red_gib (AutoDXT, 512X512)
+[2020.09.04-08.41.19:736][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source/Scout_old_obj_max_tga/scout_red_invun.tga)
+[2020.09.04-08.41.19:738][765]LogTexture: Display: Building textures: scout_red_invun (AutoDXT, 256X256)
+[2020.09.04-08.41.28:817][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.09.04-08.41.28:822][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/TF2_map' took 0.027
+[2020.09.04-08.41.28:822][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/textures/scout_body_blue_d] ([1] browsable assets)...
+[2020.09.04-08.41.28:824][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/textures/scout_body_blue_d.scout_body_blue_d]
+[2020.09.04-08.41.28:824][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/textures/scout_body_blue_d]
+[2020.09.04-08.41.28:834][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_body_blue_d_Auto4F97D5CEB478A59514781FBBD12B889F5.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/textures/scout_body_blue_d_Auto4.uasset'
+[2020.09.04-08.41.28:835][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/textures/scout_eye_d] ([1] browsable assets)...
+[2020.09.04-08.41.28:839][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/textures/scout_eye_d.scout_eye_d]
+[2020.09.04-08.41.28:839][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/textures/scout_eye_d]
+[2020.09.04-08.41.28:846][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_eye_d_Auto45F11E20846CA56D70E4B42B1749782F2.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/textures/scout_eye_d_Auto4.uasset'
+[2020.09.04-08.41.28:847][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/textures/scout_head_d] ([1] browsable assets)...
+[2020.09.04-08.41.28:851][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/textures/scout_head_d.scout_head_d]
+[2020.09.04-08.41.28:851][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/textures/scout_head_d]
+[2020.09.04-08.41.28:862][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_head_d_Auto48F12A070452712AAD600F68F07D3BE26.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/textures/scout_head_d_Auto4.uasset'
+[2020.09.04-08.41.28:863][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_red_gib] ([1] browsable assets)...
+[2020.09.04-08.41.28:866][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_red_gib.scout_red_gib]
+[2020.09.04-08.41.28:866][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_red_gib]
+[2020.09.04-08.41.28:877][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_red_gib_Auto4183018794D307AA68AC958927128F2D6.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_red_gib_Auto4.uasset'
+[2020.09.04-08.41.28:878][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_red] ([1] browsable assets)...
+[2020.09.04-08.41.28:880][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_red.scout_red]
+[2020.09.04-08.41.28:880][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_red]
+[2020.09.04-08.41.28:890][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_red_Auto478C25BDF4E3BFB7B5D172A978298D08B.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_red_Auto4.uasset'
+[2020.09.04-08.41.28:891][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_body_blue_d] ([1] browsable assets)...
+[2020.09.04-08.41.28:893][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_body_blue_d.scout_body_blue_d]
+[2020.09.04-08.41.28:893][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_body_blue_d]
+[2020.09.04-08.41.28:903][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_body_blue_d_Auto4E0D948D24E09FC12E01B208D3EFA8EC4.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_body_blue_d_Auto4.uasset'
+[2020.09.04-08.41.28:904][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_body_blue_zombie_d] ([1] browsable assets)...
+[2020.09.04-08.41.28:906][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_body_blue_zombie_d.scout_body_blue_zombie_d]
+[2020.09.04-08.41.28:906][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_body_blue_zombie_d]
+[2020.09.04-08.41.28:914][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_body_blue_zombie_d_Auto44D2A7C134111BA9D048970A97ABCC0FA.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_body_blue_zombie_d_Auto4.uasset'
+[2020.09.04-08.41.28:914][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_body_n] ([1] browsable assets)...
+[2020.09.04-08.41.28:917][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_body_n.scout_body_n]
+[2020.09.04-08.41.28:917][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_body_n]
+[2020.09.04-08.41.28:924][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_body_n_Auto45514AECF4715118B208D28AA905B386A.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_body_n_Auto4.uasset'
+[2020.09.04-08.41.28:925][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_body_red_d] ([1] browsable assets)...
+[2020.09.04-08.41.28:927][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_body_red_d.scout_body_red_d]
+[2020.09.04-08.41.28:927][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_body_red_d]
+[2020.09.04-08.41.28:936][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_body_red_d_Auto4101A032442BF51DF96719F9FA43EF9D7.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_body_red_d_Auto4.uasset'
+[2020.09.04-08.41.28:937][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_body_red_zombie_d] ([1] browsable assets)...
+[2020.09.04-08.41.28:939][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_body_red_zombie_d.scout_body_red_zombie_d]
+[2020.09.04-08.41.28:939][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_body_red_zombie_d]
+[2020.09.04-08.41.28:947][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_body_red_zombie_d_Auto474C4B58647D00E32A61500AA1B226B7D.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_body_red_zombie_d_Auto4.uasset'
+[2020.09.04-08.41.28:948][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_body_s] ([1] browsable assets)...
+[2020.09.04-08.41.28:949][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_body_s.scout_body_s]
+[2020.09.04-08.41.28:949][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_body_s]
+[2020.09.04-08.41.28:958][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_body_s_Auto41F931E584C8EB32CE0818CA24B25AD89.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_body_s_Auto4.uasset'
+[2020.09.04-08.41.28:958][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_body_zombie_n] ([1] browsable assets)...
+[2020.09.04-08.41.28:961][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_body_zombie_n.scout_body_zombie_n]
+[2020.09.04-08.41.28:961][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_body_zombie_n]
+[2020.09.04-08.41.28:970][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_body_zombie_n_Auto48F9EF39046DECF117EEE65B4B9AFC723.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_body_zombie_n_Auto4.uasset'
+[2020.09.04-08.41.28:971][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_body_zombie_s] ([1] browsable assets)...
+[2020.09.04-08.41.28:973][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_body_zombie_s.scout_body_zombie_s]
+[2020.09.04-08.41.28:973][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_body_zombie_s]
+[2020.09.04-08.41.28:980][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_body_zombie_s_Auto40E7B6E5642D73E3BC3ACACB9094489AE.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_body_zombie_s_Auto4.uasset'
+[2020.09.04-08.41.28:981][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_eye_d] ([1] browsable assets)...
+[2020.09.04-08.41.28:985][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_eye_d.scout_eye_d]
+[2020.09.04-08.41.28:985][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_eye_d]
+[2020.09.04-08.41.28:994][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_eye_d_Auto493C9B2A3433DB0FB1D20408B050F24B9.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_eye_d_Auto4.uasset'
+[2020.09.04-08.41.28:994][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_eye_n] ([1] browsable assets)...
+[2020.09.04-08.41.28:999][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_eye_n.scout_eye_n]
+[2020.09.04-08.41.28:999][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_eye_n]
+[2020.09.04-08.41.29:006][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_eye_n_Auto40FEFE93A4061DD4D62254C931C7BA57D.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_eye_n_Auto4.uasset'
+[2020.09.04-08.41.29:007][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_eye_s] ([1] browsable assets)...
+[2020.09.04-08.41.29:011][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_eye_s.scout_eye_s]
+[2020.09.04-08.41.29:011][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_eye_s]
+[2020.09.04-08.41.29:018][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_eye_s_Auto49BEB098C4E81212B94E42D82040BFA05.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_eye_s_Auto4.uasset'
+[2020.09.04-08.41.29:019][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_head_d] ([1] browsable assets)...
+[2020.09.04-08.41.29:023][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_head_d.scout_head_d]
+[2020.09.04-08.41.29:023][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_head_d]
+[2020.09.04-08.41.29:034][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_head_d_Auto48FAFA3CE4001E0CB35B8E785CE515656.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_head_d_Auto4.uasset'
+[2020.09.04-08.41.29:035][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_head_n] ([1] browsable assets)...
+[2020.09.04-08.41.29:039][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_head_n.scout_head_n]
+[2020.09.04-08.41.29:039][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_head_n]
+[2020.09.04-08.41.29:052][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_head_n_Auto41DC7E7D8430CB2FE0CD334A9336C85C8.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_head_n_Auto4.uasset'
+[2020.09.04-08.41.29:052][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_head_s] ([1] browsable assets)...
+[2020.09.04-08.41.29:056][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_head_s.scout_head_s]
+[2020.09.04-08.41.29:056][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_head_s]
+[2020.09.04-08.41.29:065][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_head_s_Auto4776A643446867B00E8ADB38C58CCECA9.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_head_s_Auto4.uasset'
+[2020.09.04-08.41.29:066][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_head_zombie_d] ([1] browsable assets)...
+[2020.09.04-08.41.29:070][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_head_zombie_d.scout_head_zombie_d]
+[2020.09.04-08.41.29:070][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_head_zombie_d]
+[2020.09.04-08.41.29:080][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_head_zombie_d_Auto48E1084594EFF530F0B1937AE9E1ED18F.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_head_zombie_d_Auto4.uasset'
+[2020.09.04-08.41.29:080][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_head_zombie_n] ([1] browsable assets)...
+[2020.09.04-08.41.29:085][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_head_zombie_n.scout_head_zombie_n]
+[2020.09.04-08.41.29:085][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_head_zombie_n]
+[2020.09.04-08.41.29:096][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_head_zombie_n_Auto46210B73A4290854A1B9F5D9D2BBA3661.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_head_zombie_n_Auto4.uasset'
+[2020.09.04-08.41.29:097][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/scout_head_zombie_s] ([1] browsable assets)...
+[2020.09.04-08.41.29:100][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/scout_head_zombie_s.scout_head_zombie_s]
+[2020.09.04-08.41.29:100][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/scout_head_zombie_s]
+[2020.09.04-08.41.29:109][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_head_zombie_s_Auto43DD606264B994BD65BA3D98263143544.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/scout_head_zombie_s_Auto4.uasset'
+[2020.09.04-08.41.29:109][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/eye-iris-blue] ([1] browsable assets)...
+[2020.09.04-08.41.29:114][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/eye-iris-blue.eye-iris-blue]
+[2020.09.04-08.41.29:114][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/eye-iris-blue]
+[2020.09.04-08.41.29:125][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/eye-iris-blue_Auto47E9698DD4331FCCBC1B6798DF4054296.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/eye-iris-blue_Auto4.uasset'
+[2020.09.04-08.41.29:125][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/eye-iris-brown] ([1] browsable assets)...
+[2020.09.04-08.41.29:129][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/eye-iris-brown.eye-iris-brown]
+[2020.09.04-08.41.29:129][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/eye-iris-brown]
+[2020.09.04-08.41.29:141][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/eye-iris-brown_Auto4B78E7C1F4D1A2F8F7ED0FE9E6CE86883.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/eye-iris-brown_Auto4.uasset'
+[2020.09.04-08.41.29:141][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/eyeball_l] ([1] browsable assets)...
+[2020.09.04-08.41.29:142][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/eyeball_l.eyeball_l]
+[2020.09.04-08.41.29:142][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/eyeball_l]
+[2020.09.04-08.41.29:147][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/eyeball_l_Auto4784CB401421619B9410753B4F6FAF4EA.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/eyeball_l_Auto4.uasset'
+[2020.09.04-08.41.29:148][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/eyeball_r] ([1] browsable assets)...
+[2020.09.04-08.41.29:148][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/eyeball_r.eyeball_r]
+[2020.09.04-08.41.29:148][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/eyeball_r]
+[2020.09.04-08.41.29:154][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/eyeball_r_Auto40DDEA0C5446BA481735CB9AA0C7A10B1.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/eyeball_r_Auto4.uasset'
+[2020.09.04-08.41.29:154][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_red_invun] ([1] browsable assets)...
+[2020.09.04-08.41.29:158][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_red_invun.scout_red_invun]
+[2020.09.04-08.41.29:158][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_red_invun]
+[2020.09.04-08.41.29:167][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_red_invun_Auto4050C89A8422696318081F5BFEFB42F7B.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_red_invun_Auto4.uasset'
+[2020.09.04-08.41.29:167][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue] ([1] browsable assets)...
+[2020.09.04-08.41.29:170][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue.scout_blue]
+[2020.09.04-08.41.29:170][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue]
+[2020.09.04-08.41.29:180][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_blue_Auto405DF9A864C150D38489B6EB6ACE99267.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue_Auto4.uasset'
+[2020.09.04-08.41.29:182][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue_gib] ([1] browsable assets)...
+[2020.09.04-08.41.29:185][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue_gib.scout_blue_gib]
+[2020.09.04-08.41.29:185][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue_gib]
+[2020.09.04-08.41.29:198][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_blue_gib_Auto47DAFECA24693398F4F98629131296273.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue_gib_Auto4.uasset'
+[2020.09.04-08.41.29:199][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue_invun] ([1] browsable assets)...
+[2020.09.04-08.41.29:203][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue_invun.scout_blue_invun]
+[2020.09.04-08.41.29:203][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue_invun]
+[2020.09.04-08.41.29:211][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_blue_invun_Auto4CF31D0FF443F9C5C77F3D7974BE991DC.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_blue_invun_Auto4.uasset'
+[2020.09.04-08.41.29:212][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_hands] ([1] browsable assets)...
+[2020.09.04-08.41.29:216][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_hands.scout_hands]
+[2020.09.04-08.41.29:216][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_hands]
+[2020.09.04-08.41.29:228][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_hands_Auto4BBDBFC4C414788BF82FFC9A996C0F87D.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_hands_Auto4.uasset'
+[2020.09.04-08.41.29:228][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_hands_normal] ([1] browsable assets)...
+[2020.09.04-08.41.29:233][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_hands_normal.scout_hands_normal]
+[2020.09.04-08.41.29:233][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_hands_normal]
+[2020.09.04-08.41.29:245][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_hands_normal_Auto49DF6783F4F4EF8253C3DE08B88B411B5.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_hands_normal_Auto4.uasset'
+[2020.09.04-08.41.29:245][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_head] ([1] browsable assets)...
+[2020.09.04-08.41.29:249][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_head.scout_head]
+[2020.09.04-08.41.29:250][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_head]
+[2020.09.04-08.41.29:260][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_head_Auto4103FA6C94B31852317BEAAAA03EE4AF8.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_head_Auto4.uasset'
+[2020.09.04-08.41.29:261][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_head_blue_invun] ([1] browsable assets)...
+[2020.09.04-08.41.29:264][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_head_blue_invun.scout_head_blue_invun]
+[2020.09.04-08.41.29:264][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_head_blue_invun]
+[2020.09.04-08.41.29:274][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_head_blue_invun_Auto45FCB9319448444E12614A993483A14BB.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_head_blue_invun_Auto4.uasset'
+[2020.09.04-08.41.29:274][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_head_red_invun] ([1] browsable assets)...
+[2020.09.04-08.41.29:278][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_head_red_invun.scout_head_red_invun]
+[2020.09.04-08.41.29:278][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_head_red_invun]
+[2020.09.04-08.41.29:287][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_head_red_invun_Auto446BA60444D31C722F15FF09DE123AE9B.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_head_red_invun_Auto4.uasset'
+[2020.09.04-08.41.29:288][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_normal] ([1] browsable assets)...
+[2020.09.04-08.41.29:291][728]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/偵查兵/source/Scout_old_obj_max_tga/scout_normal.scout_normal]
+[2020.09.04-08.41.29:291][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/偵查兵/source/Scout_old_obj_max_tga/scout_normal]
+[2020.09.04-08.41.29:300][728]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scout_normal_Auto47659842F4CFAB8A50E1AF5A96AF23292.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/偵查兵/source/Scout_old_obj_max_tga/scout_normal_Auto4.uasset'
+[2020.09.04-08.41.29:300][728]LogFileHelpers: Auto-saving content packages took 0.479
+[2020.09.04-08.41.33:165][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.09.04-08.41.37:276][112]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.04-08.41.37:447][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.09.04-08.41.55:624][362]LogAssetTools: Warning: Failed to import 'C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source\Scout.dae'. Unknown extension 'dae'.
+[2020.09.04-08.41.55:626][362]LogAssetTools: Warning: Failed to import 'C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source\Scout.mtl'. Unknown extension 'mtl'.
+[2020.09.04-08.41.55:628][362]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source\Scout.obj)
+[2020.09.04-08.41.55:755][362]LogFbx: Loading FBX Scene from C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source\Scout.obj
+[2020.09.04-08.41.55:825][362]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.04-08.41.59:183][362]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.04-08.41.59:295][362]LogMaterial: Display: Missing cached shader map for material defaultMat, compiling. 
+[2020.09.04-08.41.59:465][362]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.09.04-08.41.59:465][362]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.09.04-08.41.59:465][362]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.09.04-08.41.59:465][362]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.09.04-08.41.59:465][362]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.09.04-08.41.59:465][362]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.09.04-08.41.59:465][362]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.41.59:465][362]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.09.04-08.41.59:485][362]LogStaticMesh: Building static mesh Scout...
+[2020.09.04-08.41.59:606][362]LogStaticMesh: Built static mesh [0.12s] /Game/偵查兵/textures/Scout.Scout
+[2020.09.04-08.42.18:910][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.09.04-08.42.20:019][532]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.04-08.42.20:087][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.09.04-08.42.36:725][874]LogAssetTools: Warning: Failed to import 'C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source\Scout_old_obj_max_tga\scout.mtl'. Unknown extension 'mtl'.
+[2020.09.04-08.42.36:727][874]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source\Scout_old_obj_max_tga\scout.obj)
+[2020.09.04-08.42.36:790][874]LogFbx: Loading FBX Scene from C:\Users\IM\Desktop\TF2_Scout_(UE素材)\Scout模組\source\Scout_old_obj_max_tga\scout.obj
+[2020.09.04-08.42.36:862][874]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.04-08.42.38:258][874]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.04-08.42.38:282][874]LogMaterial: Display: Missing cached shader map for material _null_Mat, compiling. 
+[2020.09.04-08.42.38:291][874]LogFbx: Display: Triangulating static mesh (null)
+[2020.09.04-08.42.38:498][874]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.09.04-08.42.38:498][874]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.09.04-08.42.38:498][874]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.09.04-08.42.38:498][874]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.09.04-08.42.38:498][874]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.09.04-08.42.38:498][874]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.09.04-08.42.38:498][874]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.42.38:498][874]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.09.04-08.42.38:519][874]LogStaticMesh: Building static mesh scout...
+[2020.09.04-08.42.38:654][874]LogStaticMesh: Built static mesh [0.13s] /Game/偵查兵/textures/scout.scout
+[2020.09.04-08.42.38:674][874]LogStaticMesh: Warning: scout has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.09.04-08.42.38:706][874]LogStaticMesh: Warning: scout has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.09.04-08.42.38:706][874]LogStaticMesh: Warning: scout has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.09.04-08.42.38:737][874]FBXImport: Warning: scout has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.09.04-08.42.38:737][874]FBXImport: Warning: scout has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.09.04-08.42.38:737][874]FBXImport: Warning: scout has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.09.04-08.42.41:031][129]LogSlate: Window 'Message Log' being destroyed
+[2020.09.04-08.42.41:034][129]LogSlate: Window 'Message Log' being destroyed
+[2020.09.04-08.42.46:127][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.09.04-08.42.47:226][700]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.04-08.42.47:290][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.09.04-08.43.32:702][ 94]LogPhysics: Warning: Failed to cook TriMesh: /Game/火焰兵/scene_Pyro.scene_Pyro.
+[2020.09.04-08.43.32:702][ 94]LogPhysics: Warning: Attempt to build physics data for /Game/火焰兵/scene_Pyro.scene_Pyro:BodySetup_0 when we are unable to.
+[2020.09.04-08.43.32:737][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.09.04-08.43.34:883][ 94]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.04-08.43.35:029][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.09.04-08.43.35:051][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.09.04-08.43.35:073][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-08.43.35:094][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-08.43.35:118][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-08.43.35:140][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-08.43.35:161][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-08.43.35:183][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-08.43.35:205][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-08.43.35:227][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-08.43.35:253][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-08.43.35:274][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-08.43.35:296][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.09.04-08.43.35:319][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-08.43.35:341][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-08.43.35:362][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-08.43.35:384][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.09.04-08.43.35:411][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.09.04-08.43.35:433][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-08.44.23:362][870]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\IM\Downloads\Ch40_nonPBR.fbx)
+[2020.09.04-08.44.23:589][870]LogFbx: Loading FBX Scene from C:\Users\IM\Downloads\Ch40_nonPBR.fbx
+[2020.09.04-08.44.23:830][870]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.04-08.44.30:027][870]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.04-08.44.30:081][870]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Downloads\Ch40_nonPBR.fbm/Ch40_1001_Diffuse.png)
+[2020.09.04-08.44.30:457][870]LogTexture: Display: Building textures: Ch40_1001_Diffuse (AutoDXT, 4096X4096)
+[2020.09.04-08.44.31:850][870]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Downloads\Ch40_nonPBR.fbm/Ch40_1001_Glossiness.png)
+[2020.09.04-08.44.31:962][870]LogTexture: Display: Building textures: Ch40_1001_Glossiness (AutoDXT, 4096X4096)
+[2020.09.04-08.44.33:345][870]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Downloads\Ch40_nonPBR.fbm/Ch40_1001_Normal.png)
+[2020.09.04-08.44.33:796][870]LogTexture: Display: Building textures: Ch40_1001_Normal (BC5, 4096X4096)
+[2020.09.04-08.44.34:347][870]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Downloads\Ch40_nonPBR.fbm/Ch40_1001_Specular.png)
+[2020.09.04-08.44.34:619][870]LogTexture: Display: Building textures: Ch40_1001_Specular (AutoDXT, 4096X4096)
+[2020.09.04-08.44.35:101][870]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Downloads\Ch40_nonPBR.fbm/Ch40_1002_Diffuse.png)
+[2020.09.04-08.44.35:476][870]LogTexture: Display: Building textures: Ch40_1002_Diffuse (AutoDXT, 4096X4096)
+[2020.09.04-08.44.36:970][870]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Downloads\Ch40_nonPBR.fbm/Ch40_1002_Glossiness.png)
+[2020.09.04-08.44.37:086][870]LogTexture: Display: Building textures: Ch40_1002_Glossiness (AutoDXT, 4096X4096)
+[2020.09.04-08.44.38:394][870]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Downloads\Ch40_nonPBR.fbm/Ch40_1002_Normal.png)
+[2020.09.04-08.44.38:898][870]LogTexture: Display: Building textures: Ch40_1002_Normal (BC5, 4096X4096)
+[2020.09.04-08.44.39:431][870]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Downloads\Ch40_nonPBR.fbm/Ch40_1002_Specular.png)
+[2020.09.04-08.44.39:695][870]LogTexture: Display: Building textures: Ch40_1002_Specular (AutoDXT, 4096X4096)
+[2020.09.04-08.44.40:216][870]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Downloads\Ch40_nonPBR.fbm/Ch40_1003_Diffuse.png)
+[2020.09.04-08.44.40:673][870]LogTexture: Display: Building textures: Ch40_1003_Diffuse (AutoDXT, 4096X4096)
+[2020.09.04-08.44.50:082][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.09.04-08.44.52:564][643]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.04-08.44.52:672][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.09.04-08.45.13:112][440]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\IM\Desktop\worn-baseball-ball\source/baseball_ball_01.fbx)
+[2020.09.04-08.45.13:124][440]LogFbx: Loading FBX Scene from C:\Users\IM\Desktop\worn-baseball-ball\source/baseball_ball_01.fbx
+[2020.09.04-08.45.13:151][440]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.04-08.45.15:765][440]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.04-08.45.15:789][440]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.45.15:799][440]LogFbx: Display: Triangulating static mesh polySurface5
+[2020.09.04-08.45.15:839][440]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.09.04-08.45.15:839][440]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.09.04-08.45.15:839][440]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.09.04-08.45.15:839][440]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.09.04-08.45.15:839][440]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.09.04-08.45.15:839][440]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.09.04-08.45.15:839][440]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.45.15:839][440]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.09.04-08.45.15:857][440]LogStaticMesh: Building static mesh baseball_ball_01...
+[2020.09.04-08.45.15:876][440]LogStaticMesh: Built static mesh [0.02s] /Game/素材/source/baseball_ball_01.baseball_ball_01
+[2020.09.04-08.45.15:901][440]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.09.04-08.45.15:998][440]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\worn-baseball-ball\textures/baseball_ball_01_c.png)
+[2020.09.04-08.45.16:435][440]LogTexture: Display: Building textures: baseball_ball_01_c (AutoDXT, 4096X4096)
+[2020.09.04-08.45.19:078][440]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\worn-baseball-ball\textures/baseball_ball_01_n.png)
+[2020.09.04-08.45.19:576][440]LogTexture: Display: Building textures: baseball_ball_01_n (BC5, 4096X4096)
+[2020.09.04-08.45.20:157][440]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\worn-baseball-ball\textures/baseball_ball_01_o.png)
+[2020.09.04-08.45.20:227][440]LogTexture: Display: Building textures: baseball_ball_01_o (AutoDXT, 4096X4096)
+[2020.09.04-08.45.21:235][440]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\worn-baseball-ball\textures/baseball_ball_01_r.png)
+[2020.09.04-08.45.21:311][440]LogTexture: Display: Building textures: baseball_ball_01_r (AutoDXT, 4096X4096)
+[2020.09.04-08.45.24:894][645]LogSlate: Window 'Message Log' being destroyed
+[2020.09.04-08.45.24:898][645]LogSlate: Window 'Message Log' being destroyed
+[2020.09.04-08.45.37:995][178]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/素材/source/lambert1.lambert1
+[2020.09.04-08.45.37:999][178]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.45.38:097][178]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.45.38:108][178]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.45.38:123][178]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.04-08.45.38:135][178]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.09.04-08.45.38:135][178]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.09.04-08.45.38:135][178]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.09.04-08.45.38:135][178]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.09.04-08.45.38:135][178]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.09.04-08.45.38:135][178]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.45.38:135][178]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.45.38:135][178]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-08.45.38:694][210]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.09.04-08.45.38:708][211]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.45.38:882][223]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.45.38:928][226]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-08.45.38:986][230]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.09.04-08.45.39:134][243]MaterialEditorStats: Base pass shader: 174 instructions
+[2020.09.04-08.45.39:134][243]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2020.09.04-08.45.39:135][243]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.09.04-08.45.39:135][243]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.04-08.45.46:626][ 78]LogSlate: Window 'lambert1' being destroyed
+[2020.09.04-08.45.56:313][165]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.45.56:323][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.04-08.45.56:335][165]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.09.04-08.45.56:335][165]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.09.04-08.45.56:335][165]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.09.04-08.45.56:335][165]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.09.04-08.45.56:335][165]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.09.04-08.45.56:335][165]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.45.56:335][165]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.45.56:335][165]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-08.45.56:341][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.04-08.45.56:367][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.04-08.45.56:387][165]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.45.56:401][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.04-08.45.56:421][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.04-08.45.56:438][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.04-08.45.56:460][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.04-08.45.56:491][165]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.45.56:506][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.04-08.45.56:529][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.04-08.45.56:545][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.04-08.45.56:556][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.04-08.45.56:577][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.04-08.45.56:606][165]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.45.56:627][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.09.04-08.45.56:644][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.04-08.45.56:657][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.04-08.45.56:670][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.04-08.45.56:683][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.04-08.45.56:696][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.09.04-08.45.56:773][166]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.09.04-08.45.56:773][166]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2020.09.04-08.45.56:928][182]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2020.09.04-08.45.57:008][187]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.09.04-08.45.57:014][188]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2020.09.04-08.45.57:014][188]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.09.04-08.45.57:014][188]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2020.09.04-08.45.57:059][193]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.09.04-08.45.57:340][221]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2020.09.04-08.45.57:363][223]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2020.09.04-08.45.57:475][235]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.09.04-08.45.57:493][237]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2020.09.04-08.45.57:659][255]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2020.09.04-08.45.57:708][259]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2020.09.04-08.45.57:728][261]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.09.04-08.45.57:745][263]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2020.09.04-08.45.57:771][266]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2020.09.04-08.45.57:784][267]MaterialEditorStats: Base pass shader: 174 instructions
+[2020.09.04-08.45.57:784][267]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2020.09.04-08.45.57:784][267]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.09.04-08.45.57:784][267]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.04-08.45.57:895][280]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2020.09.04-08.45.57:923][283]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.09.04-08.45.57:992][290]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2020.09.04-08.45.58:091][301]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2020.09.04-08.45.58:257][317]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.09.04-08.45.58:275][319]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.09.04-08.45.58:287][320]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.09.04-08.45.58:304][321]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.09.04-08.45.58:325][321]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.45.58:435][327]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2020.09.04-08.45.58:451][329]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.09.04-08.45.58:487][332]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.09.04-08.45.58:535][337]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.09.04-08.45.58:818][365]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.09.04-08.45.58:847][368]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.09.04-08.45.58:847][368]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.09.04-08.45.58:866][370]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.09.04-08.45.58:966][381]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.09.04-08.45.59:013][384]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.45.59:022][385]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.09.04-08.45.59:032][386]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-08.45.59:280][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.09.04-08.45.59:687][456]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.09.04-08.45.59:687][456]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.09.04-08.45.59:687][456]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.09.04-08.45.59:687][456]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.04-08.46.01:999][731]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.46.02:010][731]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.09.04-08.46.02:010][731]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.09.04-08.46.02:010][731]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.09.04-08.46.02:010][731]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.09.04-08.46.02:010][731]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.09.04-08.46.02:010][731]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.46.02:010][731]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.46.02:010][731]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-08.46.02:015][731]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.04-08.46.02:476][772]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.09.04-08.46.02:497][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.46.02:733][797]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.46.02:760][800]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.09.04-08.46.02:768][801]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.09.04-08.46.02:929][819]MaterialEditorStats: Base pass shader: 175 instructions
+[2020.09.04-08.46.02:929][819]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2020.09.04-08.46.02:929][819]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.09.04-08.46.02:929][819]MaterialEditorStats: Texture samplers: 3/16
+[2020.09.04-08.46.02:929][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.09.04-08.46.02:929][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.04-08.46.14:467][138]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.46.14:480][138]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.04-08.46.14:486][138]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.09.04-08.46.14:486][138]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.09.04-08.46.14:486][138]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.09.04-08.46.14:486][138]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.09.04-08.46.14:486][138]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.09.04-08.46.14:486][138]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.46.14:486][138]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.46.14:486][138]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-08.46.14:951][180]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.09.04-08.46.14:984][183]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.46.15:195][204]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.46.15:205][205]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.09.04-08.46.15:233][208]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.09.04-08.46.16:877][404]MaterialEditorStats: Base pass shader: 181 instructions
+[2020.09.04-08.46.16:877][404]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 255 instructions
+[2020.09.04-08.46.16:877][404]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.09.04-08.46.16:877][404]MaterialEditorStats: Texture samplers: 4/16
+[2020.09.04-08.46.16:877][404]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.09.04-08.46.16:877][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.04-08.46.26:509][548]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.46.26:521][548]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.09.04-08.46.26:521][548]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.09.04-08.46.26:521][548]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.09.04-08.46.26:521][548]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.09.04-08.46.26:521][548]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.09.04-08.46.26:521][548]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.46.26:521][548]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.46.26:521][548]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-08.46.26:525][548]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.09.04-08.46.27:004][587]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.09.04-08.46.27:014][588]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.46.27:231][608]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.46.27:262][611]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.09.04-08.46.27:291][614]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.09.04-08.46.27:469][634]MaterialEditorStats: Base pass shader: 183 instructions
+[2020.09.04-08.46.27:469][634]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 257 instructions
+[2020.09.04-08.46.27:469][634]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.09.04-08.46.27:469][634]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.04-08.46.27:469][634]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.04-08.46.27:469][634]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.04-08.46.48:201][111]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.46.48:229][111]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.09.04-08.46.48:229][111]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.09.04-08.46.48:229][111]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.09.04-08.46.48:229][111]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.09.04-08.46.48:229][111]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.09.04-08.46.48:229][111]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.46.48:229][111]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.46.48:229][111]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-08.46.48:229][111]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.04-08.46.48:796][169]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.09.04-08.46.48:812][170]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.09.04-08.46.49:015][191]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.09.04-08.46.49:027][192]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.09.04-08.46.49:099][200]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.09.04-08.46.49:262][218]MaterialEditorStats: Base pass shader: 185 instructions
+[2020.09.04-08.46.49:262][218]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 259 instructions
+[2020.09.04-08.46.49:262][218]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.09.04-08.46.49:262][218]MaterialEditorStats: Texture samplers: 6/16
+[2020.09.04-08.46.49:262][218]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.09.04-08.46.49:262][218]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.04-08.46.55:252][920]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.46.55:278][920]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.09.04-08.46.55:278][920]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.09.04-08.46.55:279][920]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.09.04-08.46.55:279][920]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.09.04-08.46.55:279][920]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.09.04-08.46.55:279][920]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.46.55:279][920]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.46.55:279][920]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-08.46.55:710][966]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.09.04-08.46.59:765][446]MaterialEditorStats: Base pass shader: 183 instructions
+[2020.09.04-08.46.59:765][446]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 257 instructions
+[2020.09.04-08.46.59:765][446]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.09.04-08.46.59:765][446]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.04-08.46.59:765][446]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.04-08.46.59:765][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.04-08.47.01:047][597]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.47.01:078][598]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.09.04-08.47.01:078][598]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.09.04-08.47.01:078][598]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.09.04-08.47.01:078][598]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.09.04-08.47.01:078][598]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.09.04-08.47.01:078][598]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.47.01:078][598]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.47.01:078][598]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-08.47.01:512][646]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.09.04-08.47.01:953][695]MaterialEditorStats: Base pass shader: 183 instructions
+[2020.09.04-08.47.01:954][695]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 257 instructions
+[2020.09.04-08.47.01:954][695]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.09.04-08.47.01:954][695]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.04-08.47.01:954][695]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.04-08.47.01:954][695]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.04-08.47.17:714][528]LogMaterialEditor: Saving and Compiling material lambert1
+[2020.09.04-08.47.18:059][528]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.47.18:096][528]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.09.04-08.47.18:096][528]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.09.04-08.47.18:096][528]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.09.04-08.47.18:096][528]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.09.04-08.47.18:096][528]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.09.04-08.47.18:096][528]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.04-08.47.18:096][528]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-08.47.18:096][528]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-08.47.18:105][528]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.04-08.47.18:146][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.09.04-08.47.18:160][528]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.04-08.47.19:015][528]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2020.09.04-08.47.19:015][528]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2020.09.04-08.47.19:015][528]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2020.09.04-08.47.19:015][528]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.09.04-08.47.19:015][528]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2020.09.04-08.47.19:015][528]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.09.04-08.47.19:015][528]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2020.09.04-08.47.19:015][528]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.09.04-08.47.19:015][528]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.09.04-08.47.19:015][528]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.09.04-08.47.19:015][528]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.09.04-08.47.19:019][528]TextureStreamingBuild: Display: Compiling optional shaders took 0.871 seconds.
+[2020.09.04-08.47.19:046][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.09.04-08.47.19:086][528]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.09.04-08.47.19:752][528]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.09.04-08.47.19:752][528]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.09.04-08.47.19:764][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/source/lambert1" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/素材/source/lambert1.uasset" SILENT=true
+[2020.09.04-08.47.19:778][528]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/lambert133F9B0C248B99B2D7F1FB6BC60E865BC.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/素材/source/lambert1.uasset'
+[2020.09.04-08.47.19:815][528]AssetCheck: New page: Asset Save: lambert1
+[2020.09.04-08.47.19:815][528]LogContentValidation: Display: Validating Material /Game/素材/source/lambert1.lambert1
+[2020.09.04-08.47.19:820][528]MaterialEditorStats: Base pass shader: 183 instructions
+[2020.09.04-08.47.19:820][528]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 257 instructions
+[2020.09.04-08.47.19:820][528]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.09.04-08.47.19:820][528]MaterialEditorStats: Texture samplers: 6/16
+[2020.09.04-08.47.19:820][528]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.04-08.47.19:820][528]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.04-08.47.21:043][672]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-08.47.21:043][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-08.47.24:348][ 42]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/素材/source/baseball_ball_01.baseball_ball_01
+[2020.09.04-08.47.25:085][ 43]LogRenderer: Reallocating scene render targets to support 1240x780 Format 26 NumSamples 1 (Frame:1).
+[2020.09.04-08.47.50:856][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/source/baseball_ball_01" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/素材/source/baseball_ball_01.uasset" SILENT=true
+[2020.09.04-08.47.50:871][ 69]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/baseball_ball_01896D54334880323E6A49C9A7631E08FB.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/素材/source/baseball_ball_01.uasset'
+[2020.09.04-08.47.50:881][ 69]AssetCheck: New page: Asset Save: baseball_ball_01
+[2020.09.04-08.47.50:881][ 69]LogContentValidation: Display: Validating StaticMesh /Game/素材/source/baseball_ball_01.baseball_ball_01
+[2020.09.04-08.47.51:456][135]LogSlate: Window 'baseball_ball_01' being destroyed
+[2020.09.04-08.47.51:471][135]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-08.47.51:471][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-08.47.54:256][439]LogActorFactory: Actor Factory created baseball_ball_01
+[2020.09.04-08.47.55:024][531]LogActorFactory: Actor Factory created baseball_ball_01
+[2020.09.04-08.47.57:065][770]Cmd: DELETE
+[2020.09.04-08.47.57:065][770]Cmd: ACTOR DELETE
+[2020.09.04-08.47.57:067][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-08.47.57:090][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.09.04-08.47.57:092][770]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-08.48.00:282][148]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/素材/source/baseball_ball_01.baseball_ball_01
+[2020.09.04-08.48.23:656][875]LogSlate: Window 'baseball_ball_01' being destroyed
+[2020.09.04-08.48.23:661][875]LogSlate: Window 'baseball_ball_01' being destroyed
+[2020.09.04-08.48.23:673][875]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-08.48.23:673][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-08.49.19:049][257]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.09.04-08.49.27:887][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_素材/BP_棒球.BP_棒球
+[2020.09.04-08.49.28:657][285]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.09.04-08.50.11:232][882]LogRenderer: Reallocating scene render targets to support 1240x880 Format 26 NumSamples 1 (Frame:1923).
+[2020.09.04-08.50.11:437][905]LogSlate: Window 'BP_棒球' being destroyed
+[2020.09.04-08.50.53:201][803]LogEditorTransaction: Undo Modify Component(s)
+[2020.09.04-08.50.55:578][ 33]BlueprintLog: New page: Compile BP_棒球
+[2020.09.04-08.50.55:888][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.09.04-08.50.56:267][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_素材/BP_棒球" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset" SILENT=true
+[2020.09.04-08.50.56:303][ 74]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/BP_棒球2942095145B6C7ACC45F9DBCF5AE58DD.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset'
+[2020.09.04-08.50.56:314][ 74]AssetCheck: New page: Asset Save: BP_棒球
+[2020.09.04-08.50.56:314][ 74]LogContentValidation: Display: Validating Blueprint /Game/BP_素材/BP_棒球.BP_棒球
+[2020.09.04-08.51.11:420][842]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-08.51.33:486][479]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球)
+[2020.09.04-08.51.40:051][261]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.09.04-08.51.40:706][335]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-08.51.44:943][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.09.04-08.51.45:129][829]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_mapC6767EA64C6B3DB3AF1F26BD81030AB3.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-08.51.45:163][829]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-08.51.45:163][829]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-08.51.49:128][302]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-08.51.49:128][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-08.51.53:422][808]LogEditorViewport: Clicking on Actor (LMB): BP_棒球_C (BP_棒球)
+[2020.09.04-08.52.00:323][602]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_素材/BP_棒球.BP_棒球
+[2020.09.04-08.52.37:100][703]LogRenderer: Reallocating scene render targets to support 1248x880 Format 26 NumSamples 1 (Frame:2792).
+[2020.09.04-08.52.37:121][704]LogRenderer: Reallocating scene render targets to support 1264x880 Format 26 NumSamples 1 (Frame:2794).
+[2020.09.04-08.52.37:142][705]LogRenderer: Reallocating scene render targets to support 1288x880 Format 26 NumSamples 1 (Frame:2796).
+[2020.09.04-08.52.37:162][706]LogRenderer: Reallocating scene render targets to support 1312x880 Format 26 NumSamples 1 (Frame:2798).
+[2020.09.04-08.52.37:182][707]LogRenderer: Reallocating scene render targets to support 1332x880 Format 26 NumSamples 1 (Frame:2800).
+[2020.09.04-08.52.37:216][709]LogRenderer: Reallocating scene render targets to support 1340x880 Format 26 NumSamples 1 (Frame:2804).
+[2020.09.04-08.53.01:246][409]BlueprintLog: New page: Compile BP_棒球
+[2020.09.04-08.53.01:479][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.09.04-08.53.02:415][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_素材/BP_棒球" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset" SILENT=true
+[2020.09.04-08.53.02:433][515]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/BP_棒球696CA7D14F9070DDCD6E37BFE04D40AB.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset'
+[2020.09.04-08.53.02:443][515]AssetCheck: New page: Asset Save: BP_棒球
+[2020.09.04-08.53.02:443][515]LogContentValidation: Display: Validating Blueprint /Game/BP_素材/BP_棒球.BP_棒球
+[2020.09.04-08.53.44:930][339]BlueprintLog: New page: Compile BP_棒球
+[2020.09.04-08.53.45:193][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.09.04-08.57.08:753][591]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.04-08.57.29:137][ 21]BlueprintLog: New page: Compile BP_棒球
+[2020.09.04-08.57.29:335][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.09.04-08.57.29:655][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_素材/BP_棒球" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset" SILENT=true
+[2020.09.04-08.57.29:687][ 53]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/BP_棒球8D8BAC37484947148C895D9C39889BAC.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset'
+[2020.09.04-08.57.29:698][ 53]AssetCheck: New page: Asset Save: BP_棒球
+[2020.09.04-08.57.29:698][ 53]LogContentValidation: Display: Validating Blueprint /Game/BP_素材/BP_棒球.BP_棒球
+[2020.09.04-08.59.35:317][377]LogEditorTransaction: Undo Create Pin Link
+[2020.09.04-08.59.40:542][924]LogEditorTransaction: Undo Move Node
+[2020.09.04-09.00.52:243][883]BlueprintLog: New page: Compile BP_棒球
+[2020.09.04-09.00.52:245][883]LogBlueprint: Error: [Compiler BP_棒球] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.09.04-09.00.52:467][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.09.04-09.00.52:729][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_素材/BP_棒球" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset" SILENT=true
+[2020.09.04-09.00.52:768][909]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/BP_棒球5961591C4CDA77789B03F6A4172DD8C3.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset'
+[2020.09.04-09.00.52:779][909]AssetCheck: New page: Asset Save: BP_棒球
+[2020.09.04-09.00.52:779][909]LogContentValidation: Display: Validating Blueprint /Game/BP_素材/BP_棒球.BP_棒球
+[2020.09.04-09.01.03:006][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2020.09.04-09.01.07:713][613]LogSlate: Window 'BP_PickupCube' being destroyed
+[2020.09.04-09.01.07:733][613]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-09.01.07:733][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-09.01.16:368][627]BlueprintLog: New page: Compile BP_棒球
+[2020.09.04-09.01.16:570][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.09.04-09.01.17:316][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_素材/BP_棒球" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset" SILENT=true
+[2020.09.04-09.01.17:332][710]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/BP_棒球6D5595C74FEFEDB76A13F893E2C1C031.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset'
+[2020.09.04-09.01.17:345][710]AssetCheck: New page: Asset Save: BP_棒球
+[2020.09.04-09.01.17:345][710]LogContentValidation: Display: Validating Blueprint /Game/BP_素材/BP_棒球.BP_棒球
+[2020.09.04-09.01.38:188][170]BlueprintLog: New page: Compile BP_棒球
+[2020.09.04-09.01.38:387][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.09.04-09.01.38:831][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_素材/BP_棒球" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset" SILENT=true
+[2020.09.04-09.01.38:847][218]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/BP_棒球F1FE0C204472AE6D243322800BA18A05.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset'
+[2020.09.04-09.01.38:859][218]AssetCheck: New page: Asset Save: BP_棒球
+[2020.09.04-09.01.38:860][218]LogContentValidation: Display: Validating Blueprint /Game/BP_素材/BP_棒球.BP_棒球
+[2020.09.04-09.02.13:628][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.09.04-09.02.13:822][422]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map_Auto5A6DCC8BE418B5D3E0ED2E89DAB16B3E8.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/VirtualRealityBP/Maps/TF2_map_Auto5.umap'
+[2020.09.04-09.02.13:823][422]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/TF2_map' took 0.227
+[2020.09.04-09.02.13:823][422]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.227
+[2020.09.04-09.02.13:824][422]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/素材/textures/baseball_ball_01_c] ([1] browsable assets)...
+[2020.09.04-09.02.13:828][422]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/素材/textures/baseball_ball_01_c.baseball_ball_01_c]
+[2020.09.04-09.02.13:828][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/素材/textures/baseball_ball_01_c]
+[2020.09.04-09.02.14:503][422]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/baseball_ball_01_c_Auto5E03C763245DEF03D47D94A9DB707C4B9.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/素材/textures/baseball_ball_01_c_Auto5.uasset'
+[2020.09.04-09.02.14:504][422]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/素材/textures/baseball_ball_01_n] ([1] browsable assets)...
+[2020.09.04-09.02.14:509][422]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/素材/textures/baseball_ball_01_n.baseball_ball_01_n]
+[2020.09.04-09.02.14:509][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/素材/textures/baseball_ball_01_n]
+[2020.09.04-09.02.14:907][422]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/baseball_ball_01_n_Auto5962371CE4AAC2E4B4A53C984EEDFF169.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/素材/textures/baseball_ball_01_n_Auto5.uasset'
+[2020.09.04-09.02.14:908][422]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/素材/textures/baseball_ball_01_o] ([1] browsable assets)...
+[2020.09.04-09.02.14:913][422]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/素材/textures/baseball_ball_01_o.baseball_ball_01_o]
+[2020.09.04-09.02.14:913][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/素材/textures/baseball_ball_01_o]
+[2020.09.04-09.02.14:927][422]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/baseball_ball_01_o_Auto543774CC446A6430942A9769284E5CA57.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/素材/textures/baseball_ball_01_o_Auto5.uasset'
+[2020.09.04-09.02.14:927][422]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/素材/textures/baseball_ball_01_r] ([1] browsable assets)...
+[2020.09.04-09.02.14:932][422]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/素材/textures/baseball_ball_01_r.baseball_ball_01_r]
+[2020.09.04-09.02.14:932][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/素材/textures/baseball_ball_01_r]
+[2020.09.04-09.02.14:946][422]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/baseball_ball_01_r_Auto5D74DDC1640D6BA78570A3B9957E39338.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Autosaves/Game/素材/textures/baseball_ball_01_r_Auto5.uasset'
+[2020.09.04-09.02.14:947][422]LogFileHelpers: Auto-saving content packages took 1.123
+[2020.09.04-09.02.26:154][614]BlueprintLog: New page: Compile BP_棒球
+[2020.09.04-09.02.26:355][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.09.04-09.02.26:582][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_素材/BP_棒球" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset" SILENT=true
+[2020.09.04-09.02.26:599][636]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/BP_棒球0D04DA7644F95281CD7FF1826E4EA30B.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/BP_素材/BP_棒球.uasset'
+[2020.09.04-09.02.26:610][636]AssetCheck: New page: Asset Save: BP_棒球
+[2020.09.04-09.02.26:610][636]LogContentValidation: Display: Validating Blueprint /Game/BP_素材/BP_棒球.BP_棒球
+[2020.09.04-09.02.30:365][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.09.04-09.02.30:423][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.09.04-09.02.30:610][ 72]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map47231C2249EE9C1B8EC1DA8CC230CABD.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-09.02.30:639][ 72]LogFileHelpers: Saving map 'TF2_map' took 0.248
+[2020.09.04-09.02.32:153][ 72]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/baseball_ball_01_c0D9B4B4C40967BB6904E5CBF08E949A6.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/素材/textures/baseball_ball_01_c.uasset'
+[2020.09.04-09.02.34:538][ 72]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/baseball_ball_01_n605F6A9E4FDC3E685C616BA2F7CA2534.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/素材/textures/baseball_ball_01_n.uasset'
+[2020.09.04-09.02.34:949][ 72]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/baseball_ball_01_o75DC6A974E10B46B3F44F881593B319D.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/素材/textures/baseball_ball_01_o.uasset'
+[2020.09.04-09.02.35:511][ 72]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/baseball_ball_01_r3CE9ADF24AF6C717D5E77FA5397246C2.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/素材/textures/baseball_ball_01_r.uasset'
+[2020.09.04-09.02.35:567][ 72]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.04-09.02.35:567][ 72]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-09.02.35:567][ 72]LogContentValidation: Display: Validating Texture2D /Game/素材/textures/baseball_ball_01_c.baseball_ball_01_c
+[2020.09.04-09.02.35:567][ 72]LogContentValidation: Display: Validating Texture2D /Game/素材/textures/baseball_ball_01_n.baseball_ball_01_n
+[2020.09.04-09.02.35:567][ 72]LogContentValidation: Display: Validating Texture2D /Game/素材/textures/baseball_ball_01_o.baseball_ball_01_o
+[2020.09.04-09.02.35:567][ 72]LogContentValidation: Display: Validating Texture2D /Game/素材/textures/baseball_ball_01_r.baseball_ball_01_r
