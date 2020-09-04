@@ -889,3 +889,685 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.04-06.34.21:405][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
 [2020.09.04-06.34.21:477][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.09.04-06.39.25:176][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.09.04-06.43.17:347][489]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.04-06.43.17:777][489]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.09.04-06.43.17:777][489]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.09.04-06.43.17:777][489]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.09.04-06.43.17:777][489]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.09.04-06.43.17:777][489]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.09.04-06.43.17:777][489]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.09.04-06.43.17:781][489]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.09.04-06.43.17:787][489]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.09.04-06.43.17:814][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.09.04-06.43.17:820][489]Cmd: MAP LOAD FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.04-06.43.17:820][489]LightingResults: New page: Lighting Build
+[2020.09.04-06.43.17:821][489]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2020.09.04-06.43.17:821][489]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-06.43.17:821][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-06.43.17:821][489]MapCheck: New page: Map Check
+[2020.09.04-06.43.17:821][489]LightingResults: New page: Lighting Build
+[2020.09.04-06.43.17:846][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.09.04-06.43.17:908][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.04-06.43.17:935][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.09.04-06.43.17:948][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.04-06.43.17:949][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2020.09.04-06.43.17:949][489]LogFileHelpers: Loading map 'MotionControllerMap' took 0.129
+[2020.09.04-06.43.29:019][813]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2020.09.04-06.43.42:801][450]LogSlate: Took 0.001122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.09.04-06.45.03:235][974]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\IM\Desktop\TF2字體_tf2_build.ttf)
+[2020.09.04-06.45.04:506][974]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.09.04-06.45.04:513][974]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.09.04-06.45.04:514][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-06.45.04:517][974]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.04-06.45.04:517][974]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.04-06.45.04:518][974]LogSlate: Took 0.000723 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.09.04-06.45.04:533][974]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.04-06.45.04:537][974]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.04-06.45.04:542][974]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.04-06.45.04:570][975]LogSlate: Last resort fallback font was requested. Font: '/Game/字體/TF2字體_tf2_build.TF2字體_tf2_build', Character: '字 (U+5b57)'
+[2020.09.04-06.45.04:696][975]LogSlate: Took 0.124846 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.09.04-06.45.32:494][297]Cmd: TRANSACTION UNDO
+[2020.09.04-06.45.32:494][297]LogEditorTransaction: Undo Move Actors
+[2020.09.04-06.45.34:815][527]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-06.45.36:455][721]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-06.45.37:702][867]Cmd: TRANSACTION UNDO
+[2020.09.04-06.45.37:702][867]LogEditorTransaction: Undo Move Actors
+[2020.09.04-06.45.40:161][113]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-06.45.42:365][376]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-06.45.43:748][541]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-06.46.12:005][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.09.04-06.46.12:085][819]LogAIModule: Creating AISystem for world MotionControllerMap_2
+[2020.09.04-06.46.14:136][ 57]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap_2.MotionControllerMap_2
+[2020.09.04-06.46.14:161][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.09.04-06.46.15:899][ 57]LogSlate: Window 'Save Content' being destroyed
+[2020.09.04-06.46.22:285][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.09.04-06.46.22:286][782]LogMetaData: Removing '/Game/VirtualRealityBP/Maps/TF2.SKEL_TF2_C' ref from Metadata '/Game/VirtualRealityBP/Maps/MotionControllerMap_2.PackageMetaData'
+[2020.09.04-06.46.22:286][782]LogMetaData: Removing '/Game/VirtualRealityBP/Maps/TF2.TF2_C' ref from Metadata '/Game/VirtualRealityBP/Maps/MotionControllerMap_2.PackageMetaData'
+[2020.09.04-06.46.22:348][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.09.04-06.46.22:465][782]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF29C404C7A4467E75415D8FF8049A28532.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2.umap'
+[2020.09.04-06.46.22:470][782]LogFileHelpers: Saving map 'TF2' took 0.151
+[2020.09.04-06.46.22:573][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.09.04-06.46.22:602][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.09.04-06.46.22:623][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.09.04-06.46.22:648][782]AssetCheck: New page: Asset Save: TF2
+[2020.09.04-06.46.22:648][782]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2.TF2
+[2020.09.04-06.47.05:644][900]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map_BuiltData06775B2B4B3AA1326A181AACCACEE56F.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map_BuiltData.uasset'
+[2020.09.04-06.47.05:757][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.09.04-06.47.05:787][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.09.04-06.47.05:810][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.09.04-06.47.05:834][900]AssetCheck: New page: Asset Save: TF2_map_BuiltData
+[2020.09.04-06.47.05:834][900]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/TF2_map_BuiltData.TF2_map_BuiltData
+[2020.09.04-06.47.15:554][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.09.04-06.47.15:555][ 28]LogMetaData: Removing '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map_C' ref from Metadata '/Game/VirtualRealityBP/Maps/TF2.PackageMetaData'
+[2020.09.04-06.47.15:555][ 28]LogMetaData: Removing '/Game/VirtualRealityBP/Maps/TF2_map.SKEL_TF2_map_C' ref from Metadata '/Game/VirtualRealityBP/Maps/TF2.PackageMetaData'
+[2020.09.04-06.47.15:618][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.09.04-06.47.15:734][ 28]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_mapC736887F493EED686FE3389D433F81C7.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-06.47.15:739][ 28]LogFileHelpers: Saving map 'TF2_map' took 0.152
+[2020.09.04-06.47.15:842][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.09.04-06.47.15:869][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.09.04-06.47.15:890][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.09.04-06.47.15:915][ 28]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-06.47.15:915][ 28]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-06.47.17:770][246]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-06.47.17:793][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-06.47.20:397][246]LogSlate: Window 'Save Content' being destroyed
+[2020.09.04-06.47.20:438][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-06.47.20:589][246]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/MotionControllerMap594A0A834AC50D669A93A0AF60107117.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2020.09.04-06.47.20:623][246]LogFileHelpers: Saving map 'MotionControllerMap' took 0.209
+[2020.09.04-06.47.20:624][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/TF2字體_tf2_build" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF2字體_tf2_build.uasset" SILENT=true
+[2020.09.04-06.47.20:629][246]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2字體_tf2_build0697D9BB472A1E321A3B83B60325AF0E.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF2字體_tf2_build.uasset'
+[2020.09.04-06.47.20:633][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/TF2字體_tf2_build_Font" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF2字體_tf2_build_Font.uasset" SILENT=true
+[2020.09.04-06.47.20:649][246]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2字體_tf2_build_Font3E259A954F063EAB37C433925C6EE56E.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF2字體_tf2_build_Font.uasset'
+[2020.09.04-06.47.20:651][246]Cmd: MAP LOAD FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.04-06.47.20:651][246]LightingResults: New page: Lighting Build
+[2020.09.04-06.47.20:652][246]LoadErrors: New page: Loading map: TF2_map.umap
+[2020.09.04-06.47.20:652][246]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-06.47.20:652][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-06.47.20:652][246]MapCheck: New page: Map Check
+[2020.09.04-06.47.20:652][246]LightingResults: New page: Lighting Build
+[2020.09.04-06.47.20:678][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.09.04-06.47.20:741][246]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.04-06.47.20:765][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.09.04-06.47.20:778][246]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.04-06.47.20:778][246]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2020.09.04-06.47.20:778][246]LogFileHelpers: Loading map 'TF2_map' took 0.127
+[2020.09.04-06.47.20:804][246]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.04-06.47.20:804][246]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.09.04-06.47.20:819][246]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.09.04-06.47.20:821][246]LogContentValidation: Display: Validating FontFace /Game/字體/TF2字體_tf2_build.TF2字體_tf2_build
+[2020.09.04-06.47.20:821][246]LogContentValidation: Display: Validating Font /Game/字體/TF2字體_tf2_build_Font.TF2字體_tf2_build_Font
+[2020.09.04-06.47.21:637][333]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/VirtualRealityBP/Maps/TF2_map_BuiltData.TF2_map_BuiltData
+[2020.09.04-06.47.23:617][557]LogSlate: Window 'TF2_map_BuiltData' being destroyed
+[2020.09.04-06.47.23:622][557]LogSlate: Window 'TF2_map_BuiltData' being destroyed
+[2020.09.04-06.47.25:203][738]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-06.47.25:229][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.09.04-06.47.25:231][738]Cmd: MAP LOAD FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.04-06.47.25:231][738]LightingResults: New page: Lighting Build
+[2020.09.04-06.47.25:231][738]LoadErrors: New page: Loading map: TF2_map.umap
+[2020.09.04-06.47.25:232][738]LogWorld: UWorld::CleanupWorld for TF2_map, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-06.47.25:232][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-06.47.25:232][738]MapCheck: New page: Map Check
+[2020.09.04-06.47.25:232][738]LightingResults: New page: Lighting Build
+[2020.09.04-06.47.25:257][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.09.04-06.47.25:282][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.09.04-06.47.25:306][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.09.04-06.47.25:319][738]LogAIModule: Creating AISystem for world TF2_map
+[2020.09.04-06.47.25:395][738]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.04-06.47.25:419][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.09.04-06.47.25:433][738]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.04-06.47.25:433][738]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2020.09.04-06.47.25:433][738]LogFileHelpers: Loading map 'TF2_map' took 0.203
+[2020.09.04-06.47.45:104][931]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-06.47.45:129][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-06.47.45:132][931]Cmd: MAP LOAD FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.04-06.47.45:132][931]LightingResults: New page: Lighting Build
+[2020.09.04-06.47.45:133][931]LoadErrors: New page: Loading map: TF2_map.umap
+[2020.09.04-06.47.45:133][931]LogWorld: UWorld::CleanupWorld for TF2_map, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-06.47.45:133][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-06.47.45:133][931]MapCheck: New page: Map Check
+[2020.09.04-06.47.45:133][931]LightingResults: New page: Lighting Build
+[2020.09.04-06.47.45:159][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.09.04-06.47.45:172][931]LogAIModule: Creating AISystem for world TF2_map
+[2020.09.04-06.47.45:263][931]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.04-06.47.45:287][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.09.04-06.47.45:300][931]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.04-06.47.45:300][931]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2020.09.04-06.47.45:300][931]LogFileHelpers: Loading map 'TF2_map' took 0.169
+[2020.09.04-06.48.09:727][832]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2020.09.04-06.48.18:354][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2020.09.04-06.48.21:420][174]Cmd: DELETE
+[2020.09.04-06.48.21:420][174]Cmd: ACTOR DELETE
+[2020.09.04-06.48.21:422][174]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.21:449][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.09.04-06.48.21:451][174]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.09.04-06.48.32:405][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2020.09.04-06.48.33:242][572]Cmd: DELETE
+[2020.09.04-06.48.33:242][572]Cmd: ACTOR DELETE
+[2020.09.04-06.48.33:244][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.33:268][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-06.48.33:270][572]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.09.04-06.48.33:741][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2020.09.04-06.48.33:923][648]Cmd: DELETE
+[2020.09.04-06.48.33:923][648]Cmd: ACTOR DELETE
+[2020.09.04-06.48.33:925][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.33:948][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-06.48.33:949][648]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.34:308][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2020.09.04-06.48.34:432][703]Cmd: DELETE
+[2020.09.04-06.48.34:432][703]Cmd: ACTOR DELETE
+[2020.09.04-06.48.34:434][703]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.34:459][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-06.48.34:459][703]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.09.04-06.48.34:996][764]Cmd: DELETE
+[2020.09.04-06.48.34:996][764]Cmd: ACTOR DELETE
+[2020.09.04-06.48.34:998][764]LogEditorActor: Deleted Actor: Brush
+[2020.09.04-06.48.35:021][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-06.48.35:027][764]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.09.04-06.48.36:657][959]Cmd: TRANSACTION UNDO
+[2020.09.04-06.48.36:657][959]LogEditorTransaction: Undo Delete Actors
+[2020.09.04-06.48.37:438][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2020.09.04-06.48.38:076][ 77]Cmd: DELETE
+[2020.09.04-06.48.38:076][ 77]Cmd: ACTOR DELETE
+[2020.09.04-06.48.38:078][ 77]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.38:104][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.09.04-06.48.38:104][ 77]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.09.04-06.48.38:519][127]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume7)
+[2020.09.04-06.48.38:617][127]Cmd: DELETE
+[2020.09.04-06.48.38:617][127]Cmd: ACTOR DELETE
+[2020.09.04-06.48.38:619][127]LogEditorActor: Deleted Actor: NavModifierVolume
+[2020.09.04-06.48.38:641][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-06.48.38:642][127]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.09.04-06.48.39:211][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2020.09.04-06.48.39:469][223]Cmd: DELETE
+[2020.09.04-06.48.39:469][223]Cmd: ACTOR DELETE
+[2020.09.04-06.48.39:471][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.39:495][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-06.48.39:495][223]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.39:925][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2020.09.04-06.48.40:124][296]Cmd: DELETE
+[2020.09.04-06.48.40:124][296]Cmd: ACTOR DELETE
+[2020.09.04-06.48.40:126][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.40:150][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.09.04-06.48.40:151][296]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.09.04-06.48.40:711][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2020.09.04-06.48.40:825][374]Cmd: DELETE
+[2020.09.04-06.48.40:825][374]Cmd: ACTOR DELETE
+[2020.09.04-06.48.40:827][374]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.40:852][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-06.48.40:853][374]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.09.04-06.48.41:347][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2020.09.04-06.48.41:454][443]Cmd: DELETE
+[2020.09.04-06.48.41:454][443]Cmd: ACTOR DELETE
+[2020.09.04-06.48.41:456][443]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.41:480][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-06.48.41:480][443]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.41:924][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2020.09.04-06.48.42:030][506]Cmd: DELETE
+[2020.09.04-06.48.42:030][506]Cmd: ACTOR DELETE
+[2020.09.04-06.48.42:032][506]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.42:055][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-06.48.42:056][506]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.42:398][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2020.09.04-06.48.42:605][569]Cmd: DELETE
+[2020.09.04-06.48.42:605][569]Cmd: ACTOR DELETE
+[2020.09.04-06.48.42:607][569]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.42:630][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-06.48.42:631][569]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.09.04-06.48.43:183][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2020.09.04-06.48.43:331][650]Cmd: DELETE
+[2020.09.04-06.48.43:331][650]Cmd: ACTOR DELETE
+[2020.09.04-06.48.43:333][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.43:356][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-06.48.43:356][650]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.43:867][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2020.09.04-06.48.43:951][718]Cmd: DELETE
+[2020.09.04-06.48.43:951][718]Cmd: ACTOR DELETE
+[2020.09.04-06.48.43:953][718]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.43:978][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-06.48.43:978][718]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.09.04-06.48.44:372][765]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume11)
+[2020.09.04-06.48.44:525][780]Cmd: DELETE
+[2020.09.04-06.48.44:525][780]Cmd: ACTOR DELETE
+[2020.09.04-06.48.44:527][780]LogEditorActor: Deleted Actor: NavModifierVolume
+[2020.09.04-06.48.44:551][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-06.48.44:551][780]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.45:216][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2020.09.04-06.48.45:544][896]Cmd: DELETE
+[2020.09.04-06.48.45:544][896]Cmd: ACTOR DELETE
+[2020.09.04-06.48.45:546][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.04-06.48.45:568][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-06.48.45:569][896]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.09.04-06.48.46:332][988]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume13)
+[2020.09.04-06.48.46:660][ 24]Cmd: DELETE
+[2020.09.04-06.48.46:660][ 24]Cmd: ACTOR DELETE
+[2020.09.04-06.48.46:662][ 24]LogEditorActor: Deleted Actor: NavModifierVolume
+[2020.09.04-06.48.46:686][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-06.48.46:687][ 24]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.47:113][ 75]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume10)
+[2020.09.04-06.48.47:502][119]Cmd: DELETE
+[2020.09.04-06.48.47:502][119]Cmd: ACTOR DELETE
+[2020.09.04-06.48.47:504][119]LogEditorActor: Deleted Actor: NavModifierVolume
+[2020.09.04-06.48.47:527][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-06.48.47:528][119]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.47:947][169]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume9)
+[2020.09.04-06.48.48:185][195]Cmd: DELETE
+[2020.09.04-06.48.48:185][195]Cmd: ACTOR DELETE
+[2020.09.04-06.48.48:187][195]LogEditorActor: Deleted Actor: NavModifierVolume
+[2020.09.04-06.48.48:210][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-06.48.48:211][195]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.49:088][300]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume2)
+[2020.09.04-06.48.49:461][342]Cmd: DELETE
+[2020.09.04-06.48.49:461][342]Cmd: ACTOR DELETE
+[2020.09.04-06.48.49:463][342]LogEditorActor: Deleted Actor: NavModifierVolume
+[2020.09.04-06.48.49:487][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.04-06.48.49:487][342]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.50:626][475]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume5)
+[2020.09.04-06.48.50:989][515]Cmd: DELETE
+[2020.09.04-06.48.50:989][515]Cmd: ACTOR DELETE
+[2020.09.04-06.48.50:991][515]LogEditorActor: Deleted Actor: NavModifierVolume
+[2020.09.04-06.48.51:014][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-06.48.51:015][515]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.51:575][582]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume6)
+[2020.09.04-06.48.51:772][603]Cmd: DELETE
+[2020.09.04-06.48.51:772][603]Cmd: ACTOR DELETE
+[2020.09.04-06.48.51:774][603]LogEditorActor: Deleted Actor: NavModifierVolume
+[2020.09.04-06.48.51:796][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-06.48.51:797][603]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.09.04-06.48.52:309][661]Cmd: DELETE
+[2020.09.04-06.48.52:309][661]Cmd: ACTOR DELETE
+[2020.09.04-06.48.52:311][661]LogEditorActor: Deleted Actor: Brush
+[2020.09.04-06.48.52:333][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.09.04-06.48.52:339][661]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.09.04-06.48.53:782][833]Cmd: TRANSACTION UNDO
+[2020.09.04-06.48.53:782][833]LogEditorTransaction: Undo Delete Actors
+[2020.09.04-06.48.54:388][859]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume)
+[2020.09.04-06.48.55:259][960]Cmd: DELETE
+[2020.09.04-06.48.55:260][960]Cmd: ACTOR DELETE
+[2020.09.04-06.48.55:261][960]LogEditorActor: Deleted Actor: NavModifierVolume
+[2020.09.04-06.48.55:285][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-06.48.55:286][960]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-06.48.57:798][258]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-06.49.12:530][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.09.04-06.49.12:583][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-06.49.12:687][958]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_mapF72223954316A441B51841933BD46F25.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-06.49.12:702][958]LogFileHelpers: Saving map 'TF2_map' took 0.145
+[2020.09.04-06.49.12:709][958]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-06.49.12:710][958]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-06.49.42:408][480]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/字體/TF字體.TF字體
+[2020.09.04-06.49.45:666][717]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2020.09.04-06.50.01:103][717]LogFactory: FactoryCreateNew: Font with TrueTypeFontFactory (1 0 )
+[2020.09.04-06.50.01:160][717]LogTTFontImport: OutPutGlyph X=1 Y=1 FontHeight=22 FontWidth=10 Char=0000 U=1 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:161][717]LogTTFontImport: OutPutGlyph X=12 Y=1 FontHeight=22 FontWidth=10 Char=0001 U=12 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:161][717]LogTTFontImport: OutPutGlyph X=23 Y=1 FontHeight=22 FontWidth=10 Char=0002 U=23 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:162][717]LogTTFontImport: OutPutGlyph X=34 Y=1 FontHeight=22 FontWidth=10 Char=0003 U=34 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:162][717]LogTTFontImport: OutPutGlyph X=45 Y=1 FontHeight=22 FontWidth=10 Char=0004 U=45 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:162][717]LogTTFontImport: OutPutGlyph X=56 Y=1 FontHeight=22 FontWidth=10 Char=0005 U=56 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:162][717]LogTTFontImport: OutPutGlyph X=67 Y=1 FontHeight=22 FontWidth=10 Char=0006 U=67 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:163][717]LogTTFontImport: OutPutGlyph X=78 Y=1 FontHeight=22 FontWidth=10 Char=0007 U=78 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:163][717]LogTTFontImport: OutPutGlyph X=89 Y=1 FontHeight=22 FontWidth=10 Char=0008 U=89 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:163][717]LogTTFontImport: OutPutGlyph X=100 Y=1 FontHeight=22 FontWidth=0 Char=0009 U=100 V=2 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:163][717]LogTTFontImport: OutPutGlyph X=101 Y=1 FontHeight=22 FontWidth=0 Char=000a U=101 V=2 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:163][717]LogTTFontImport: OutPutGlyph X=102 Y=1 FontHeight=22 FontWidth=10 Char=000b U=102 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:164][717]LogTTFontImport: OutPutGlyph X=113 Y=1 FontHeight=22 FontWidth=10 Char=000c U=113 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:164][717]LogTTFontImport: OutPutGlyph X=124 Y=1 FontHeight=22 FontWidth=0 Char=000d U=124 V=2 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:164][717]LogTTFontImport: OutPutGlyph X=125 Y=1 FontHeight=22 FontWidth=10 Char=000e U=125 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:164][717]LogTTFontImport: OutPutGlyph X=136 Y=1 FontHeight=22 FontWidth=10 Char=000f U=136 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:164][717]LogTTFontImport: OutPutGlyph X=147 Y=1 FontHeight=22 FontWidth=10 Char=0010 U=147 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:165][717]LogTTFontImport: OutPutGlyph X=158 Y=1 FontHeight=22 FontWidth=10 Char=0011 U=158 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:165][717]LogTTFontImport: OutPutGlyph X=169 Y=1 FontHeight=22 FontWidth=10 Char=0012 U=169 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:165][717]LogTTFontImport: OutPutGlyph X=180 Y=1 FontHeight=22 FontWidth=10 Char=0013 U=180 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:165][717]LogTTFontImport: OutPutGlyph X=191 Y=1 FontHeight=22 FontWidth=10 Char=0014 U=191 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:166][717]LogTTFontImport: OutPutGlyph X=202 Y=1 FontHeight=22 FontWidth=10 Char=0015 U=202 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:166][717]LogTTFontImport: OutPutGlyph X=213 Y=1 FontHeight=22 FontWidth=10 Char=0016 U=213 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:166][717]LogTTFontImport: OutPutGlyph X=224 Y=1 FontHeight=22 FontWidth=10 Char=0017 U=224 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:166][717]LogTTFontImport: OutPutGlyph X=235 Y=1 FontHeight=22 FontWidth=10 Char=0018 U=235 V=2 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:166][717]LogTTFontImport: OutPutGlyph X=1 Y=24 FontHeight=22 FontWidth=10 Char=0019 U=1 V=25 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:167][717]LogTTFontImport: OutPutGlyph X=12 Y=24 FontHeight=22 FontWidth=10 Char=001a U=12 V=25 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:167][717]LogTTFontImport: OutPutGlyph X=23 Y=24 FontHeight=22 FontWidth=10 Char=001b U=23 V=25 =Usize=10 VSIze=22
+[2020.09.04-06.50.01:167][717]LogTTFontImport: OutPutGlyph X=34 Y=24 FontHeight=22 FontWidth=0 Char=001c U=34 V=25 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:167][717]LogTTFontImport: OutPutGlyph X=35 Y=24 FontHeight=22 FontWidth=0 Char=001d U=35 V=25 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:167][717]LogTTFontImport: OutPutGlyph X=36 Y=24 FontHeight=22 FontWidth=0 Char=001e U=36 V=25 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:168][717]LogTTFontImport: OutPutGlyph X=37 Y=24 FontHeight=22 FontWidth=0 Char=001f U=37 V=25 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:168][717]LogTTFontImport: OutPutGlyph X=38 Y=24 FontHeight=22 FontWidth=8 Char=0020 U=38 V=25 =Usize=8 VSIze=22
+[2020.09.04-06.50.01:265][717]LogTTFontImport: OutPutGlyph X=235 Y=96 FontHeight=22 FontWidth=5 Char=007f U=235 V=97 =Usize=5 VSIze=22
+[2020.09.04-06.50.01:265][717]LogTTFontImport: OutPutGlyph X=241 Y=96 FontHeight=22 FontWidth=0 Char=0080 U=241 V=97 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:266][717]LogTTFontImport: OutPutGlyph X=242 Y=96 FontHeight=22 FontWidth=0 Char=0081 U=242 V=97 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:268][717]LogTTFontImport: OutPutGlyph X=105 Y=119 FontHeight=22 FontWidth=0 Char=008d U=105 V=120 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:268][717]LogTTFontImport: OutPutGlyph X=106 Y=119 FontHeight=22 FontWidth=0 Char=008e U=106 V=120 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:268][717]LogTTFontImport: OutPutGlyph X=107 Y=119 FontHeight=22 FontWidth=0 Char=008f U=107 V=120 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:268][717]LogTTFontImport: OutPutGlyph X=108 Y=119 FontHeight=22 FontWidth=0 Char=0090 U=108 V=120 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:269][717]LogTTFontImport: OutPutGlyph X=141 Y=119 FontHeight=22 FontWidth=0 Char=0095 U=141 V=120 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:270][717]LogTTFontImport: OutPutGlyph X=209 Y=119 FontHeight=22 FontWidth=0 Char=009d U=209 V=120 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:270][717]LogTTFontImport: OutPutGlyph X=210 Y=119 FontHeight=22 FontWidth=0 Char=009e U=210 V=120 =Usize=0 VSIze=22
+[2020.09.04-06.50.01:271][717]LogTTFontImport: OutPutGlyph X=223 Y=119 FontHeight=22 FontWidth=8 Char=00a0 U=223 V=120 =Usize=8 VSIze=22
+[2020.09.04-06.50.01:273][717]LogTTFontImport: OutPutGlyph X=137 Y=142 FontHeight=22 FontWidth=17 Char=00b1 U=137 V=143 =Usize=17 VSIze=22
+[2020.09.04-06.50.01:283][717]LogTexture: Display: Building textures: TF字體_PageA (AutoDXT, 256X256)
+[2020.09.04-06.50.01:285][717]LogTTFontImport: ImportTrueTypeFont: Total Time 0.16
+[2020.09.04-06.50.15:962][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/TF字體" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset" SILENT=true
+[2020.09.04-06.50.15:973][424]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF字體66A4365E4BFEE525FD3BE796D21686E4.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset'
+[2020.09.04-06.50.15:983][424]AssetCheck: New page: Asset Save: TF字體
+[2020.09.04-06.50.15:983][424]LogContentValidation: Display: Validating Font /Game/字體/TF字體.TF字體
+[2020.09.04-06.50.35:776][734]LogFactory: FactoryCreateNew: Font with TrueTypeFontFactory (1 0 )
+[2020.09.04-06.50.35:797][734]LogTTFontImport: Warning: Importing 257 characters (unicode range ff1a-ff1a)
+[2020.09.04-06.50.35:797][734]LogTTFontImport: Warning: A texture named TF字體_PageA already exists!
+[2020.09.04-06.50.35:798][734]LogTexture: Display: Building textures: TF字體_PageA (G8, 256X16)
+[2020.09.04-06.50.35:798][734]LogTTFontImport: ImportTrueTypeFont: Total Time 0.00
+[2020.09.04-06.52.35:862][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/TF字體" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset" SILENT=true
+[2020.09.04-06.52.35:873][ 99]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF字體84FEB7B6446A31D65C151EB273EA0181.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset'
+[2020.09.04-06.52.35:883][ 99]AssetCheck: New page: Asset Save: TF字體
+[2020.09.04-06.52.35:883][ 99]LogContentValidation: Display: Validating Font /Game/字體/TF字體.TF字體
+[2020.09.04-06.52.38:123][343]LogFactory: FactoryCreateNew: Font with TrueTypeFontFactory (1 0 )
+[2020.09.04-06.52.38:144][343]LogTTFontImport: Warning: Importing 257 characters (unicode range ff1a-ff1a)
+[2020.09.04-06.52.38:145][343]LogTTFontImport: OutPutGlyph X=1 Y=1 FontHeight=22 FontWidth=8 Char=0020 U=1 V=2 =Usize=8 VSIze=22
+[2020.09.04-06.52.38:145][343]LogTTFontImport: Warning: A texture named TF字體_PageA already exists!
+[2020.09.04-06.52.38:146][343]LogTexture: Display: Building textures: TF字體_PageA (G8, 256X32)
+[2020.09.04-06.52.38:146][343]LogTTFontImport: ImportTrueTypeFont: Total Time 0.00
+[2020.09.04-06.52.53:581][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/字體/TF字體" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset" SILENT=true
+[2020.09.04-06.52.53:587][106]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF字體043642CB444CF8883F3AEFBD17D42D2F.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/字體/TF字體.uasset'
+[2020.09.04-06.52.53:597][106]AssetCheck: New page: Asset Save: TF字體
+[2020.09.04-06.52.53:597][106]LogContentValidation: Display: Validating Font /Game/字體/TF字體.TF字體
+[2020.09.04-06.52.57:205][535]LogSlate: Window 'TF字體' being destroyed
+[2020.09.04-06.52.57:209][535]LogSlate: Window 'TF字體' being destroyed
+[2020.09.04-07.05.22:279][435]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube37)
+[2020.09.04-07.05.23:318][556]Cmd: DELETE
+[2020.09.04-07.05.23:318][556]Cmd: ACTOR DELETE
+[2020.09.04-07.05.23:320][556]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.23:342][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.09.04-07.05.23:344][556]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.09.04-07.05.23:779][608]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2020.09.04-07.05.23:871][616]Cmd: DELETE
+[2020.09.04-07.05.23:871][616]Cmd: ACTOR DELETE
+[2020.09.04-07.05.23:873][616]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.23:895][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.04-07.05.23:896][616]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.09.04-07.05.24:193][652]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube33)
+[2020.09.04-07.05.24:274][659]Cmd: DELETE
+[2020.09.04-07.05.24:274][659]Cmd: ACTOR DELETE
+[2020.09.04-07.05.24:275][659]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.24:300][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-07.05.24:301][659]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.09.04-07.05.24:647][701]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube30)
+[2020.09.04-07.05.24:738][709]Cmd: DELETE
+[2020.09.04-07.05.24:738][709]Cmd: ACTOR DELETE
+[2020.09.04-07.05.24:739][709]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.24:762][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-07.05.24:763][709]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.09.04-07.05.25:059][745]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube26)
+[2020.09.04-07.05.25:433][787]Cmd: DELETE
+[2020.09.04-07.05.25:433][787]Cmd: ACTOR DELETE
+[2020.09.04-07.05.25:435][787]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.25:458][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-07.05.25:459][787]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-07.05.25:872][837]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube27)
+[2020.09.04-07.05.25:995][849]Cmd: DELETE
+[2020.09.04-07.05.25:995][849]Cmd: ACTOR DELETE
+[2020.09.04-07.05.25:997][849]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.26:022][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-07.05.26:023][849]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.09.04-07.05.26:241][875]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube31)
+[2020.09.04-07.05.26:340][884]Cmd: DELETE
+[2020.09.04-07.05.26:340][884]Cmd: ACTOR DELETE
+[2020.09.04-07.05.26:342][884]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.26:364][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.04-07.05.26:365][884]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.09.04-07.05.26:657][919]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube34)
+[2020.09.04-07.05.26:747][927]Cmd: DELETE
+[2020.09.04-07.05.26:747][927]Cmd: ACTOR DELETE
+[2020.09.04-07.05.26:749][927]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.26:771][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-07.05.26:772][927]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.09.04-07.05.27:041][959]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube36)
+[2020.09.04-07.05.27:297][987]Cmd: DELETE
+[2020.09.04-07.05.27:297][987]Cmd: ACTOR DELETE
+[2020.09.04-07.05.27:299][987]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.27:322][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-07.05.27:323][987]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.09.04-07.05.27:583][ 18]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube32)
+[2020.09.04-07.05.27:940][ 58]Cmd: DELETE
+[2020.09.04-07.05.27:940][ 58]Cmd: ACTOR DELETE
+[2020.09.04-07.05.27:942][ 58]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.27:964][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-07.05.27:965][ 58]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.09.04-07.05.29:582][251]Cmd: DELETE
+[2020.09.04-07.05.29:582][251]Cmd: ACTOR DELETE
+[2020.09.04-07.05.29:604][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-07.05.29:604][251]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2020.09.04-07.05.31:915][526]Cmd: TRANSACTION UNDO
+[2020.09.04-07.05.31:915][526]LogEditorTransaction: Undo Delete Actors
+[2020.09.04-07.05.34:905][836]Cmd: DELETE
+[2020.09.04-07.05.34:905][836]Cmd: ACTOR DELETE
+[2020.09.04-07.05.34:907][836]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.34:907][836]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.34:907][836]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.34:907][836]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.34:907][836]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.34:908][836]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.34:908][836]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.34:908][836]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.09.04-07.05.34:931][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-07.05.34:932][836]LogEditorActor: Deleted 8 Actors (0.027 secs)
+[2020.09.04-07.06.44:545][107]LogEditorViewport: Clicking Background
+[2020.09.04-07.06.45:168][181]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.09.04-07.06.47:426][443]LogEditorViewport: Clicking Background
+[2020.09.04-07.06.55:251][369]Cmd: DELETE
+[2020.09.04-07.06.55:252][369]Cmd: ACTOR DELETE
+[2020.09.04-07.06.55:254][369]LogEditorActor: Deleted Actor: Brush
+[2020.09.04-07.06.55:277][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.09.04-07.06.55:284][369]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.09.04-07.07.08:677][954]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.07.27:663][211]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.07.28:389][296]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.07.31:929][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.09.04-07.07.31:980][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.04-07.07.32:087][698]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map8404A87B4F759F27CBB87BA14AB3B659.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-07.07.32:109][698]LogFileHelpers: Saving map 'TF2_map' took 0.154
+[2020.09.04-07.07.32:117][698]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-07.07.32:117][698]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-07.07.34:379][968]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume4)
+[2020.09.04-07.07.35:421][ 90]Cmd: DELETE
+[2020.09.04-07.07.35:421][ 90]Cmd: ACTOR DELETE
+[2020.09.04-07.07.35:423][ 90]LogEditorActor: Deleted Actor: NavModifierVolume
+[2020.09.04-07.07.35:450][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.09.04-07.07.35:451][ 90]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.09.04-07.07.38:036][396]Cmd: DELETE
+[2020.09.04-07.07.38:036][396]Cmd: ACTOR DELETE
+[2020.09.04-07.07.38:037][396]LogEditorActor: Deleted Actor: Brush
+[2020.09.04-07.07.38:059][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-07.07.38:065][396]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.09.04-07.07.39:533][569]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume3)
+[2020.09.04-07.07.41:194][765]Cmd: DELETE
+[2020.09.04-07.07.41:194][765]Cmd: ACTOR DELETE
+[2020.09.04-07.07.41:195][765]LogEditorActor: Deleted Actor: NavModifierVolume
+[2020.09.04-07.07.41:219][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.09.04-07.07.41:220][765]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.09.04-07.07.50:854][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.09.04-07.07.50:909][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-07.07.51:004][909]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_mapCEBC5193493E1A64507838945B7380C3.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-07.07.51:022][909]LogFileHelpers: Saving map 'TF2_map' took 0.149
+[2020.09.04-07.07.51:029][909]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-07.07.51:029][909]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-07.07.56:732][590]LogEditorViewport: Clicking Background
+[2020.09.04-07.08.03:829][428]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.08.15:806][851]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.08.16:774][965]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.08.20:395][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.09.04-07.08.20:447][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.04-07.08.20:542][295]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map486CD3BB40F014421C4C2EAE33FAFF85.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-07.08.20:562][295]LogFileHelpers: Saving map 'TF2_map' took 0.138
+[2020.09.04-07.08.20:569][295]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-07.08.20:569][295]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-07.08.21:860][449]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.08.28:818][281]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2020.09.04-07.08.36:444][190]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.08.37:532][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.10.07:216][636]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\IM\Desktop\tf2-pyro\scene.fbx)
+[2020.09.04-07.10.07:231][636]LogFbx: Loading FBX Scene from C:\Users\IM\Desktop\tf2-pyro\scene.fbx
+[2020.09.04-07.10.07:307][636]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.04-07.10.14:141][636]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.04-07.10.14:392][636]LogLinker: Failed to load '/Game/火焰兵/Statue_Base_Base_BaseColor': Can't find file.
+[2020.09.04-07.10.14:392][636]LogLinker: Failed to load '/Game/火焰兵/Statue_Base_Base_BaseColor': Can't find file.
+[2020.09.04-07.10.14:466][636]LogTexture: Display: Building textures: Statue_Base_Base_BaseColor (AutoDXT, 2048X2048)
+[2020.09.04-07.10.14:827][636]LogMaterial: Display: Missing cached shader map for material Base, compiling. 
+[2020.09.04-07.10.14:865][636]LogFbx: Display: Triangulating static mesh Statue_Base
+[2020.09.04-07.10.15:054][636]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.09.04-07.10.15:054][636]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.09.04-07.10.15:054][636]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.09.04-07.10.15:054][636]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.09.04-07.10.15:054][636]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.09.04-07.10.15:054][636]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.09.04-07.10.15:054][636]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.09.04-07.10.15:054][636]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.09.04-07.10.15:074][636]LogStaticMesh: Building static mesh scene_Statue_Base...
+[2020.09.04-07.10.15:078][636]LogStaticMesh: Built static mesh [0.01s] /Game/火焰兵/scene_Statue_Base.scene_Statue_Base
+[2020.09.04-07.10.15:098][636]LogLinker: Failed to load '/Game/火焰兵/pyro_red': Can't find file.
+[2020.09.04-07.10.15:099][636]LogLinker: Failed to load '/Game/火焰兵/pyro_red': Can't find file.
+[2020.09.04-07.10.15:180][636]LogTexture: Display: Building textures: pyro_red (AutoDXT, 2048X1024)
+[2020.09.04-07.10.15:483][636]LogLinker: Failed to load '/Game/火焰兵/pyro_normal': Can't find file.
+[2020.09.04-07.10.15:483][636]LogLinker: Failed to load '/Game/火焰兵/pyro_normal': Can't find file.
+[2020.09.04-07.10.15:490][636]LogTexture: Display: Building textures: pyro_normal (BC5, 512X256)
+[2020.09.04-07.10.15:523][636]LogMaterial: Display: Missing cached shader map for material Material__10, compiling. 
+[2020.09.04-07.10.15:543][636]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.09.04-07.10.15:548][636]LogStaticMesh: Building static mesh scene_Pyro...
+[2020.09.04-07.10.15:556][636]LogStaticMesh: Built static mesh [0.01s] /Game/火焰兵/scene_Pyro.scene_Pyro
+[2020.09.04-07.10.15:588][636]LogPhysics: Warning: Failed to cook TriMesh: /Game/火焰兵/scene_Pyro.scene_Pyro.
+[2020.09.04-07.10.15:588][636]LogPhysics: Warning: Attempt to build physics data for /Game/火焰兵/scene_Pyro.scene_Pyro:BodySetup_0 when we are unable to.
+[2020.09.04-07.10.15:589][636]LogPhysics: Warning: Failed to cook TriMesh: /Game/火焰兵/scene_Pyro.scene_Pyro.
+[2020.09.04-07.10.15:589][636]LogPhysics: Warning: Attempt to build physics data for /Game/火焰兵/scene_Pyro.scene_Pyro:BodySetup_0 when we are unable to.
+[2020.09.04-07.10.15:597][636]LogPhysics: Warning: Failed to cook TriMesh: /Game/火焰兵/scene_Pyro.scene_Pyro.
+[2020.09.04-07.10.15:597][636]LogPhysics: Warning: Attempt to build physics data for /Game/火焰兵/scene_Pyro.scene_Pyro:BodySetup_0 when we are unable to.
+[2020.09.04-07.10.15:656][636]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.09.04-07.10.15:731][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\tf2-pyro\textures/Pyro_Material__10_Metallic.jpg)
+[2020.09.04-07.10.15:734][636]LogTexture: Display: Building textures: Pyro_Material__10_Metallic (AutoDXT, 512X512)
+[2020.09.04-07.10.15:765][636]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.09.04-07.10.15:765][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\tf2-pyro\textures/Pyro_Material__10_Occlusions.jpg)
+[2020.09.04-07.10.15:771][636]LogTexture: Display: Building textures: Pyro_Material__10_Occlusions (AutoDXT, 512X512)
+[2020.09.04-07.10.15:833][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\tf2-pyro\textures/Pyro_Material__10_Roughness.jpg)
+[2020.09.04-07.10.15:835][636]LogTexture: Display: Building textures: Pyro_Material__10_Roughness (AutoDXT, 512X512)
+[2020.09.04-07.10.15:967][636]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.09.04-07.10.15:983][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\tf2-pyro\textures/pyro_normal.jpg)
+[2020.09.04-07.10.15:995][636]LogTexture: Display: Building textures: pyro_normal (BC5, 512X256)
+[2020.09.04-07.10.16:013][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\tf2-pyro\textures/pyro_red.jpeg)
+[2020.09.04-07.10.16:122][636]LogTexture: Display: Building textures: pyro_red (AutoDXT, 2048X1024)
+[2020.09.04-07.10.16:378][636]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.09.04-07.10.16:426][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\tf2-pyro\textures/Statue Base_Base_BaseColor.jpeg)
+[2020.09.04-07.10.16:531][636]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.09.04-07.10.16:531][636]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.09.04-07.10.16:531][636]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.09.04-07.10.16:531][636]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.09.04-07.10.16:531][636]LogTexture: Display: Building textures: Statue_Base_Base_BaseColor (AutoDXT, 2048X2048)
+[2020.09.04-07.10.16:955][636]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.09.04-07.10.16:996][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\tf2-pyro\textures/Statue_Base_Base_Metallic.jpg)
+[2020.09.04-07.10.17:008][636]LogTexture: Display: Building textures: Statue_Base_Base_Metallic (AutoDXT, 2048X2048)
+[2020.09.04-07.10.17:187][636]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.09.04-07.10.17:187][636]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.09.04-07.10.17:206][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\tf2-pyro\textures/Statue_Base_Base_Normal.jpg)
+[2020.09.04-07.10.17:366][636]LogTexture: Display: Building textures: Statue_Base_Base_Normal (BC5, 2048X2048)
+[2020.09.04-07.10.17:578][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\tf2-pyro\textures/Statue_Base_Base_Occlusions.jpg)
+[2020.09.04-07.10.17:617][636]LogTexture: Display: Building textures: Statue_Base_Base_Occlusions (AutoDXT, 2048X2048)
+[2020.09.04-07.10.17:797][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\IM\Desktop\tf2-pyro\textures/Statue_Base_Base_Roughness.jpg)
+[2020.09.04-07.10.17:842][636]LogTexture: Display: Building textures: Statue_Base_Base_Roughness (AutoDXT, 2048X2048)
+[2020.09.04-07.10.19:301][760]LogSlate: Window 'Message Log' being destroyed
+[2020.09.04-07.10.19:306][760]LogSlate: Window 'Message Log' being destroyed
+[2020.09.04-07.12.38:035][794]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.09.04-07.13.18:238][551]Cmd: TRANSACTION UNDO
+[2020.09.04-07.13.18:238][551]LogEditorTransaction: Undo Scale Actors
+[2020.09.04-07.13.29:338][819]Cmd: TRANSACTION UNDO
+[2020.09.04-07.13.29:338][819]LogEditorTransaction: Undo Move Actors
+[2020.09.04-07.13.37:453][732]Cmd: TRANSACTION UNDO
+[2020.09.04-07.13.37:453][732]LogEditorTransaction: Undo Move Actors
+[2020.09.04-07.13.40:920][ 98]Cmd: TRANSACTION UNDO
+[2020.09.04-07.13.40:920][ 98]LogEditorTransaction: Undo Move Actors
+[2020.09.04-07.13.44:259][451]Cmd: TRANSACTION UNDO
+[2020.09.04-07.13.44:259][451]LogEditorTransaction: Undo Move Actors
+[2020.09.04-07.14.13:076][833]Cmd: TRANSACTION UNDO
+[2020.09.04-07.14.13:076][833]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.04-07.14.13:592][848]Cmd: TRANSACTION UNDO
+[2020.09.04-07.14.13:592][848]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.04-07.14.14:642][973]Cmd: TRANSACTION UNDO
+[2020.09.04-07.14.14:642][973]LogEditorTransaction: Undo Move Actors
+[2020.09.04-07.14.15:019][ 16]Cmd: TRANSACTION UNDO
+[2020.09.04-07.14.15:019][ 16]LogEditorTransaction: Undo Move Actors
+[2020.09.04-07.14.15:536][ 78]Cmd: TRANSACTION UNDO
+[2020.09.04-07.14.15:536][ 78]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.04-07.14.20:418][656]Cmd: TRANSACTION UNDO
+[2020.09.04-07.14.20:418][656]LogEditorTransaction: Undo Move Actors
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_218' invalid (344 verts, 0 indices).
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_218.BodySetup_0 when we are unable to.
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_219' invalid (344 verts, 0 indices).
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_219.BodySetup_0 when we are unable to.
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_220' invalid (344 verts, 0 indices).
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_220.BodySetup_0 when we are unable to.
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_221' invalid (344 verts, 0 indices).
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_221.BodySetup_0 when we are unable to.
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_222' invalid (344 verts, 0 indices).
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_222.BodySetup_0 when we are unable to.
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_223' invalid (344 verts, 0 indices).
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_223.BodySetup_0 when we are unable to.
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_224' invalid (344 verts, 0 indices).
+[2020.09.04-07.14.38:918][783]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_224.BodySetup_0 when we are unable to.
+[2020.09.04-07.14.38:919][783]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_225' invalid (344 verts, 0 indices).
+[2020.09.04-07.14.38:919][783]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_225.BodySetup_0 when we are unable to.
+[2020.09.04-07.14.38:919][783]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_226' invalid (344 verts, 0 indices).
+[2020.09.04-07.14.38:919][783]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_226.BodySetup_0 when we are unable to.
+[2020.09.04-07.14.38:919][783]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_227' invalid (344 verts, 0 indices).
+[2020.09.04-07.14.38:919][783]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/TF2_map.TF2_map:PersistentLevel.ModelComponent_227.BodySetup_0 when we are unable to.
+[2020.09.04-07.14.46:743][721]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.09.04-07.14.47:379][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.14.48:013][869]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.09.04-07.14.55:448][756]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.14.55:948][814]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.14.56:424][870]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.09.04-07.15.11:233][621]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.09.04-07.15.37:934][778]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.09.04-07.15.47:226][878]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.09.04-07.15.56:228][950]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.15.57:062][ 48]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.04-07.15.59:202][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.09.04-07.15.59:245][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.04-07.15.59:344][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map71A775AA4D30B9C5FB10CA90B6F0CE4F.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-07.15.59:365][292]LogFileHelpers: Saving map 'TF2_map' took 0.145
+[2020.09.04-07.15.59:509][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Statue_Base_Base_RoughnessBF72490048ED7CAA189E2FA58F4A81A8.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/Statue_Base_Base_Roughness.uasset'
+[2020.09.04-07.15.59:517][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/火焰兵/scene_Statue_Base" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/scene_Statue_Base.uasset" SILENT=true
+[2020.09.04-07.15.59:530][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scene_Statue_BaseDF05A67D4513F5FB8C9DDAA226F8EFB3.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/scene_Statue_Base.uasset'
+[2020.09.04-07.15.59:538][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/火焰兵/Base" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/Base.uasset" SILENT=true
+[2020.09.04-07.15.59:551][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/BaseABFB230747039DC62FAFCCB883015B37.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/Base.uasset'
+[2020.09.04-07.15.59:827][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Statue_Base_Base_BaseColor13ECFD8941AF2FBE2B636EAC29E3851B.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/Statue_Base_Base_BaseColor.uasset'
+[2020.09.04-07.15.59:836][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/火焰兵/scene_Pyro" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/scene_Pyro.uasset" SILENT=true
+[2020.09.04-07.15.59:869][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/scene_Pyro1E81620945F84811F128FEBE711AC059.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/scene_Pyro.uasset'
+[2020.09.04-07.15.59:877][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/火焰兵/Material__10" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/Material__10.uasset" SILENT=true
+[2020.09.04-07.15.59:892][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Material__10085D788340370406F1413EB86968ACCD.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/Material__10.uasset'
+[2020.09.04-07.15.59:896][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/火焰兵/pyro_red" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/pyro_red.uasset" SILENT=true
+[2020.09.04-07.16.00:126][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/pyro_redB1740DCF4D58939A68BC2F96C9BFA357.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/pyro_red.uasset'
+[2020.09.04-07.16.00:130][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/火焰兵/pyro_normal" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/pyro_normal.uasset" SILENT=true
+[2020.09.04-07.16.00:148][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/pyro_normal58A5B03A462F239C45148C953BB4F321.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/pyro_normal.uasset'
+[2020.09.04-07.16.00:181][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Pyro_Material__10_MetallicE5F131BA44DC5E1314837C873BAF8C28.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/Pyro_Material__10_Metallic.uasset'
+[2020.09.04-07.16.00:213][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Pyro_Material__10_Occlusions7AAC1910463B692AD5E04BB14D499AAC.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/Pyro_Material__10_Occlusions.uasset'
+[2020.09.04-07.16.00:227][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Pyro_Material__10_Roughness10E30FF040CA82249F5C069B3E3EDA52.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/Pyro_Material__10_Roughness.uasset'
+[2020.09.04-07.16.00:230][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/火焰兵/textures/pyro_normal" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/pyro_normal.uasset" SILENT=true
+[2020.09.04-07.16.00:249][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/pyro_normalA3EF880F422B319D9C1FF59981FB1202.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/pyro_normal.uasset'
+[2020.09.04-07.16.00:252][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/火焰兵/textures/pyro_red" FILE="../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/pyro_red.uasset" SILENT=true
+[2020.09.04-07.16.00:474][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/pyro_redADF1350E48FC506DE50D05897797B347.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/pyro_red.uasset'
+[2020.09.04-07.16.00:746][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Statue_Base_Base_BaseColor158CC1114D99B0304108649F719ECFE8.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/Statue_Base_Base_BaseColor.uasset'
+[2020.09.04-07.16.00:786][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Statue_Base_Base_Metallic669F278744BAD01982B57EBD22608AAF.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/Statue_Base_Base_Metallic.uasset'
+[2020.09.04-07.16.01:270][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Statue_Base_Base_NormalFA9080B44C301073FC25499DE7744D1A.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/Statue_Base_Base_Normal.uasset'
+[2020.09.04-07.16.01:416][292]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/Statue_Base_Base_OcclusionsF41FC6174C665691A5E2A1B45243922B.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/火焰兵/textures/Statue_Base_Base_Occlusions.uasset'
+[2020.09.04-07.16.01:454][292]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.04-07.16.01:454][292]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
+[2020.09.04-07.16.01:454][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/textures/Statue_Base_Base_Roughness.Statue_Base_Base_Roughness
+[2020.09.04-07.16.01:454][292]LogContentValidation: Display: Validating StaticMesh /Game/火焰兵/scene_Statue_Base.scene_Statue_Base
+[2020.09.04-07.16.01:454][292]LogContentValidation: Display: Validating Material /Game/火焰兵/Base.Base
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/Statue_Base_Base_BaseColor.Statue_Base_Base_BaseColor
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating StaticMesh /Game/火焰兵/scene_Pyro.scene_Pyro
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Material /Game/火焰兵/Material__10.Material__10
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/pyro_red.pyro_red
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/pyro_normal.pyro_normal
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/textures/Pyro_Material__10_Metallic.Pyro_Material__10_Metallic
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/textures/Pyro_Material__10_Occlusions.Pyro_Material__10_Occlusions
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/textures/Pyro_Material__10_Roughness.Pyro_Material__10_Roughness
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/textures/pyro_normal.pyro_normal
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/textures/pyro_red.pyro_red
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/textures/Statue_Base_Base_BaseColor.Statue_Base_Base_BaseColor
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/textures/Statue_Base_Base_Metallic.Statue_Base_Base_Metallic
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/textures/Statue_Base_Base_Normal.Statue_Base_Base_Normal
+[2020.09.04-07.16.01:455][292]LogContentValidation: Display: Validating Texture2D /Game/火焰兵/textures/Statue_Base_Base_Occlusions.Statue_Base_Base_Occlusions
+[2020.09.04-07.16.19:869][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
