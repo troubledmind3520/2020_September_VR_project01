@@ -1835,3 +1835,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.04-09.02.35:567][ 72]LogContentValidation: Display: Validating Texture2D /Game/素材/textures/baseball_ball_01_n.baseball_ball_01_n
 [2020.09.04-09.02.35:567][ 72]LogContentValidation: Display: Validating Texture2D /Game/素材/textures/baseball_ball_01_o.baseball_ball_01_o
 [2020.09.04-09.02.35:567][ 72]LogContentValidation: Display: Validating Texture2D /Game/素材/textures/baseball_ball_01_r.baseball_ball_01_r
+[2020.09.04-09.03.12:910][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.09.04-09.03.13:098][498]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Saved/TF2_map60A96DE8431190FC4B44D28F38591E54.tmp' to '../../../../../../Users/IM/Desktop/2020_September_VR_project01/VR_project01/Content/VirtualRealityBP/Maps/TF2_map.umap'
+[2020.09.04-09.03.13:131][498]AssetCheck: New page: Asset Save: TF2_map
+[2020.09.04-09.03.13:131][498]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/TF2_map.TF2_map
